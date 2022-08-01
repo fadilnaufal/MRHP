@@ -1,0 +1,273 @@
+(base) fadilnaufal@X220:~/Documents/OpenMC/simulation/MRHP/PPF_rev/V1_rev$ python INPUT_MRHP_V1_PPF_rev.py
+(base) fadilnaufal@X220:~/Documents/OpenMC/simulation/MRHP/PPF_rev/V1_rev$ openmc
+                                %%%%%%%%%%%%%%%
+                           %%%%%%%%%%%%%%%%%%%%%%%%
+                        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                    %%%%%%%%%%%%%%%%%%%%%%%%
+                                     %%%%%%%%%%%%%%%%%%%%%%%%
+                 ###############      %%%%%%%%%%%%%%%%%%%%%%%%
+                ##################     %%%%%%%%%%%%%%%%%%%%%%%
+                ###################     %%%%%%%%%%%%%%%%%%%%%%%
+                ####################     %%%%%%%%%%%%%%%%%%%%%%
+                #####################     %%%%%%%%%%%%%%%%%%%%%
+                ######################     %%%%%%%%%%%%%%%%%%%%
+                #######################     %%%%%%%%%%%%%%%%%%
+                 #######################     %%%%%%%%%%%%%%%%%
+                 ######################     %%%%%%%%%%%%%%%%%
+                  ####################     %%%%%%%%%%%%%%%%%
+                    #################     %%%%%%%%%%%%%%%%%
+                     ###############     %%%%%%%%%%%%%%%%
+                       ############     %%%%%%%%%%%%%%%
+                          ########     %%%%%%%%%%%%%%
+                                      %%%%%%%%%%%
+
+                   | The OpenMC Monte Carlo Code
+         Copyright | 2011-2021 MIT and OpenMC contributors
+           License | https://docs.openmc.org/en/latest/license.html
+           Version | 0.13.0-dev
+          Git SHA1 | 209fdd86ed14a16d4b73e9c44de8a9710a898e64
+         Date/Time | 2022-01-05 19:04:36
+    OpenMP Threads | 4
+
+ Reading settings XML file...
+ Reading cross sections XML file...
+ Reading materials XML file...
+ Reading geometry XML file...
+ Reading Na23 from /home/fadilnaufal/OpenMC_CS/endfb80/Na23.h5
+ Reading Na from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Na.h5
+ Reading C13 from /home/fadilnaufal/OpenMC_CS/endfb80/C13.h5
+ Reading C from /home/fadilnaufal/OpenMC_CS/endfb80/photon/C.h5
+ Reading C12 from /home/fadilnaufal/OpenMC_CS/endfb80/C12.h5
+ Reading Si30 from /home/fadilnaufal/OpenMC_CS/endfb80/Si30.h5
+ Reading Si from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Si.h5
+ Reading Si28 from /home/fadilnaufal/OpenMC_CS/endfb80/Si28.h5
+ Reading Si29 from /home/fadilnaufal/OpenMC_CS/endfb80/Si29.h5
+ Reading P31 from /home/fadilnaufal/OpenMC_CS/endfb80/P31.h5
+ Reading P from /home/fadilnaufal/OpenMC_CS/endfb80/photon/P.h5
+ Reading S34 from /home/fadilnaufal/OpenMC_CS/endfb80/S34.h5
+ Reading S from /home/fadilnaufal/OpenMC_CS/endfb80/photon/S.h5
+ Reading S33 from /home/fadilnaufal/OpenMC_CS/endfb80/S33.h5
+ Reading S32 from /home/fadilnaufal/OpenMC_CS/endfb80/S32.h5
+ Reading S36 from /home/fadilnaufal/OpenMC_CS/endfb80/S36.h5
+ Reading Cr52 from /home/fadilnaufal/OpenMC_CS/endfb80/Cr52.h5
+ Reading Cr from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Cr.h5
+ Reading Cr50 from /home/fadilnaufal/OpenMC_CS/endfb80/Cr50.h5
+ Reading Cr53 from /home/fadilnaufal/OpenMC_CS/endfb80/Cr53.h5
+ Reading Cr54 from /home/fadilnaufal/OpenMC_CS/endfb80/Cr54.h5
+ Reading Mn55 from /home/fadilnaufal/OpenMC_CS/endfb80/Mn55.h5
+ Reading Mn from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Mn.h5
+ Reading Fe58 from /home/fadilnaufal/OpenMC_CS/endfb80/Fe58.h5
+ Reading Fe from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Fe.h5
+ Reading Fe56 from /home/fadilnaufal/OpenMC_CS/endfb80/Fe56.h5
+ Reading Fe57 from /home/fadilnaufal/OpenMC_CS/endfb80/Fe57.h5
+ Reading Fe54 from /home/fadilnaufal/OpenMC_CS/endfb80/Fe54.h5
+ Reading Ni62 from /home/fadilnaufal/OpenMC_CS/endfb80/Ni62.h5
+ Reading Ni from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Ni.h5
+ Reading Ni58 from /home/fadilnaufal/OpenMC_CS/endfb80/Ni58.h5
+ Reading Ni64 from /home/fadilnaufal/OpenMC_CS/endfb80/Ni64.h5
+ Reading Ni61 from /home/fadilnaufal/OpenMC_CS/endfb80/Ni61.h5
+ Reading Ni60 from /home/fadilnaufal/OpenMC_CS/endfb80/Ni60.h5
+ Reading Mo100 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo100.h5
+ Reading Mo from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Mo.h5
+ Reading Mo98 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo98.h5
+ Reading Mo92 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo92.h5
+ Reading Mo97 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo97.h5
+ Reading Mo95 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo95.h5
+ Reading Mo94 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo94.h5
+ Reading Mo96 from /home/fadilnaufal/OpenMC_CS/endfb80/Mo96.h5
+ Reading U234 from /home/fadilnaufal/OpenMC_CS/endfb80/U234.h5
+ Reading U from /home/fadilnaufal/OpenMC_CS/endfb80/photon/U.h5
+ Reading U235 from /home/fadilnaufal/OpenMC_CS/endfb80/U235.h5
+ Reading U236 from /home/fadilnaufal/OpenMC_CS/endfb80/U236.h5
+ Reading U238 from /home/fadilnaufal/OpenMC_CS/endfb80/U238.h5
+ Reading B10 from /home/fadilnaufal/OpenMC_CS/endfb80/B10.h5
+ Reading B from /home/fadilnaufal/OpenMC_CS/endfb80/photon/B.h5
+ Reading B11 from /home/fadilnaufal/OpenMC_CS/endfb80/B11.h5
+ Reading Ar38 from /home/fadilnaufal/OpenMC_CS/endfb80/Ar38.h5
+ Reading Ar from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Ar.h5
+ Reading Ar40 from /home/fadilnaufal/OpenMC_CS/endfb80/Ar40.h5
+ Reading Ar36 from /home/fadilnaufal/OpenMC_CS/endfb80/Ar36.h5
+ WARNING: Negative value(s) found on probability table for nuclide Ar36 at 600K
+ WARNING: Negative value(s) found on probability table for nuclide Ar36 at 900K
+ Reading K39 from /home/fadilnaufal/OpenMC_CS/endfb80/K39.h5
+ Reading K from /home/fadilnaufal/OpenMC_CS/endfb80/photon/K.h5
+ Reading K41 from /home/fadilnaufal/OpenMC_CS/endfb80/K41.h5
+ Reading K40 from /home/fadilnaufal/OpenMC_CS/endfb80/K40.h5
+ Reading N15 from /home/fadilnaufal/OpenMC_CS/endfb80/N15.h5
+ Reading N from /home/fadilnaufal/OpenMC_CS/endfb80/photon/N.h5
+ Reading N14 from /home/fadilnaufal/OpenMC_CS/endfb80/N14.h5
+ Reading O16 from /home/fadilnaufal/OpenMC_CS/endfb80/O16.h5
+ Reading O from /home/fadilnaufal/OpenMC_CS/endfb80/photon/O.h5
+ Reading O18 from /home/fadilnaufal/OpenMC_CS/endfb80/O18.h5
+ Reading O17 from /home/fadilnaufal/OpenMC_CS/endfb80/O17.h5
+ Reading H1 from /home/fadilnaufal/OpenMC_CS/endfb80/H1.h5
+ Reading H from /home/fadilnaufal/OpenMC_CS/endfb80/photon/H.h5
+ Reading H2 from /home/fadilnaufal/OpenMC_CS/endfb80/H2.h5
+ Reading Mg25 from /home/fadilnaufal/OpenMC_CS/endfb80/Mg25.h5
+ Reading Mg from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Mg.h5
+ Reading Mg24 from /home/fadilnaufal/OpenMC_CS/endfb80/Mg24.h5
+ Reading Mg26 from /home/fadilnaufal/OpenMC_CS/endfb80/Mg26.h5
+ Reading Al27 from /home/fadilnaufal/OpenMC_CS/endfb80/Al27.h5
+ Reading Al from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Al.h5
+ Reading Ca40 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca40.h5
+ Reading Ca from /home/fadilnaufal/OpenMC_CS/endfb80/photon/Ca.h5
+ Reading Ca46 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca46.h5
+ Reading Ca44 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca44.h5
+ Reading Ca43 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca43.h5
+ Reading Ca48 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca48.h5
+ Reading Ca42 from /home/fadilnaufal/OpenMC_CS/endfb80/Ca42.h5
+ Reading c_Graphite from /home/fadilnaufal/OpenMC_CS/endfb80/c_Graphite.h5
+ Minimum neutron data temperature: 294 K
+ Maximum neutron data temperature: 1200 K
+ Reading tallies XML file...
+ Preparing distributed cell instances...
+ Writing summary.h5 file...
+ Maximum neutron transport energy: 20000000 eV for Na23
+ Initializing source particles...
+
+ ====================>     K EIGENVALUE SIMULATION     <====================
+
+  Bat./Gen.      k            Average k
+  =========   ========   ====================
+        1/1    1.11813
+        2/1    1.08215
+        3/1    1.07193
+        4/1    1.05783
+        5/1    1.03703
+        6/1    1.04349
+        7/1    1.01154
+        8/1    1.00479
+        9/1    1.01126
+       10/1    1.02527
+       11/1    0.99573
+       12/1    1.00051    0.99812 +/- 0.00239
+       13/1    1.01214    1.00280 +/- 0.00487
+       14/1    1.02399    1.00809 +/- 0.00632
+       15/1    0.99878    1.00623 +/- 0.00524
+       16/1    1.00977    1.00682 +/- 0.00432
+       17/1    1.01397    1.00784 +/- 0.00379
+       18/1    0.99174    1.00583 +/- 0.00385
+       19/1    1.02337    1.00778 +/- 0.00391
+       20/1    1.01632    1.00863 +/- 0.00360
+       21/1    1.01042    1.00879 +/- 0.00326
+       22/1    1.01201    1.00906 +/- 0.00299
+       23/1    1.02380    1.01020 +/- 0.00298
+       24/1    1.00509    1.00983 +/- 0.00278
+       25/1    0.99321    1.00872 +/- 0.00281
+       26/1    1.00089    1.00823 +/- 0.00268
+       27/1    1.01349    1.00854 +/- 0.00253
+       28/1    1.01983    1.00917 +/- 0.00247
+       29/1    1.00346    1.00887 +/- 0.00236
+       30/1    0.99541    1.00820 +/- 0.00233
+       31/1    1.02854    1.00917 +/- 0.00242
+       32/1    0.98813    1.00821 +/- 0.00250
+       33/1    1.00092    1.00789 +/- 0.00241
+       34/1    1.01590    1.00823 +/- 0.00233
+       35/1    0.99818    1.00782 +/- 0.00227
+       36/1    1.01396    1.00806 +/- 0.00220
+       37/1    1.00576    1.00797 +/- 0.00211
+       38/1    1.02132    1.00845 +/- 0.00209
+       39/1    0.99915    1.00813 +/- 0.00204
+       40/1    1.00074    1.00788 +/- 0.00199
+       41/1    0.98133    1.00703 +/- 0.00211
+       42/1    0.99901    1.00678 +/- 0.00206
+       43/1    1.02540    1.00734 +/- 0.00207
+       44/1    1.00506    1.00727 +/- 0.00201
+       45/1    1.01723    1.00756 +/- 0.00197
+       46/1    0.99373    1.00717 +/- 0.00195
+       47/1    1.02322    1.00761 +/- 0.00195
+       48/1    1.00000    1.00741 +/- 0.00191
+       49/1    1.00822    1.00743 +/- 0.00186
+       50/1    0.99364    1.00708 +/- 0.00184
+       51/1    1.02123    1.00743 +/- 0.00183
+       52/1    0.99740    1.00719 +/- 0.00180
+       53/1    1.00594    1.00716 +/- 0.00176
+       54/1    1.00162    1.00704 +/- 0.00173
+       55/1    0.99951    1.00687 +/- 0.00169
+       56/1    1.01602    1.00707 +/- 0.00167
+       57/1    1.01619    1.00726 +/- 0.00165
+       58/1    1.00353    1.00718 +/- 0.00161
+       59/1    1.00968    1.00723 +/- 0.00158
+       60/1    1.00336    1.00716 +/- 0.00155
+       61/1    1.00469    1.00711 +/- 0.00152
+       62/1    1.01627    1.00729 +/- 0.00150
+       63/1    1.00266    1.00720 +/- 0.00147
+       64/1    1.01655    1.00737 +/- 0.00146
+       65/1    1.00755    1.00737 +/- 0.00143
+       66/1    0.99913    1.00723 +/- 0.00141
+       67/1    1.01296    1.00733 +/- 0.00139
+       68/1    0.99990    1.00720 +/- 0.00137
+       69/1    1.00711    1.00720 +/- 0.00135
+       70/1    1.01326    1.00730 +/- 0.00133
+       71/1    1.00608    1.00728 +/- 0.00131
+       72/1    0.99977    1.00716 +/- 0.00129
+       73/1    1.01062    1.00721 +/- 0.00127
+       74/1    1.01046    1.00726 +/- 0.00125
+       75/1    1.00517    1.00723 +/- 0.00124
+       76/1    1.03234    1.00761 +/- 0.00128
+       77/1    1.01266    1.00769 +/- 0.00126
+       78/1    1.00319    1.00762 +/- 0.00124
+       79/1    1.00140    1.00753 +/- 0.00123
+       80/1    1.03905    1.00798 +/- 0.00129
+       81/1    1.00833    1.00799 +/- 0.00127
+       82/1    1.00189    1.00790 +/- 0.00126
+       83/1    1.00537    1.00787 +/- 0.00124
+       84/1    1.01269    1.00793 +/- 0.00122
+       85/1    1.00799    1.00793 +/- 0.00121
+       86/1    1.02879    1.00821 +/- 0.00122
+       87/1    1.01262    1.00826 +/- 0.00121
+       88/1    1.00840    1.00827 +/- 0.00119
+       89/1    1.00693    1.00825 +/- 0.00118
+       90/1    1.01122    1.00829 +/- 0.00116
+       91/1    1.00861    1.00829 +/- 0.00115
+       92/1    1.02497    1.00849 +/- 0.00115
+       93/1    1.02143    1.00865 +/- 0.00115
+       94/1    1.00728    1.00863 +/- 0.00114
+       95/1    1.01559    1.00872 +/- 0.00113
+       96/1    0.99759    1.00859 +/- 0.00112
+       97/1    0.97967    1.00825 +/- 0.00116
+       98/1    1.00877    1.00826 +/- 0.00114
+       99/1    1.01414    1.00833 +/- 0.00113
+      100/1    0.99184    1.00814 +/- 0.00113
+      101/1    1.00929    1.00815 +/- 0.00112
+      102/1    1.00546    1.00813 +/- 0.00111
+      103/1    1.01351    1.00818 +/- 0.00110
+      104/1    1.01580    1.00826 +/- 0.00109
+      105/1    1.00990    1.00828 +/- 0.00108
+      106/1    1.01086    1.00831 +/- 0.00107
+      107/1    1.01576    1.00839 +/- 0.00106
+      108/1    0.99786    1.00828 +/- 0.00105
+      109/1    1.03274    1.00852 +/- 0.00107
+      110/1    1.01679    1.00861 +/- 0.00107
+ Creating state point statepoint.110.h5...
+
+ =======================>     TIMING STATISTICS     <=======================
+
+ Total time for initialization     = 3.0794e+01 seconds
+   Reading cross sections          = 3.0524e+01 seconds
+ Total time in simulation          = 9.5293e+03 seconds
+   Time in transport only          = 9.5290e+03 seconds
+   Time in inactive batches        = 8.1753e+02 seconds
+   Time in active batches          = 8.7118e+03 seconds
+   Time synchronizing fission bank = 2.2934e-01 seconds
+     Sampling source sites         = 2.0306e-01 seconds
+     SEND/RECV source sites        = 2.5973e-02 seconds
+   Time accumulating tallies       = 1.3406e-02 seconds
+   Time writing statepoints        = 2.0991e-02 seconds
+ Total time for finalization       = 9.5996e-02 seconds
+ Total time elapsed                = 9.5604e+03 seconds
+ Calculation Rate (inactive)       = 122.32 particles/second
+ Calculation Rate (active)         = 114.787 particles/second
+
+ ============================>     RESULTS     <============================
+
+ k-effective (Collision)     = 1.00842 +/- 0.00095
+ k-effective (Track-length)  = 1.00861 +/- 0.00107
+ k-effective (Absorption)    = 1.00968 +/- 0.00092
+ Combined k-effective        = 1.00909 +/- 0.00064
+ Leakage Fraction            = 0.00169 +/- 0.00005
+
+(base) fadilnaufal@X220:~/Documents/OpenMC/simulation/MRHP/PPF_rev/V1_rev$

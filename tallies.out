@@ -1,0 +1,3858 @@
+ ============================>     TALLY 1     <============================
+
+ Cell 34
+   Total Material
+     heating                              8.06893e+07 +/- 73563.3
+ ============================>     TALLY 2     <============================
+
+ Distributed Cell u10->c34->l5(6,-21)->u1->c4
+   Total Material
+     heating                              154384 +/- 4044.33
+ Distributed Cell u10->c34->l5(7,-21)->u1->c4
+   Total Material
+     heating                              123513 +/- 3733.81
+ Distributed Cell u10->c34->l5(8,-21)->u1->c4
+   Total Material
+     heating                              121353 +/- 3332.01
+ Distributed Cell u10->c34->l5(9,-21)->u1->c4
+   Total Material
+     heating                              111921 +/- 3089.38
+ Distributed Cell u10->c34->l5(10,-21)->u1->c4
+   Total Material
+     heating                              114233 +/- 3378.85
+ Distributed Cell u10->c34->l5(11,-21)->u1->c4
+   Total Material
+     heating                              116899 +/- 3320.98
+ Distributed Cell u10->c34->l5(12,-21)->u1->c4
+   Total Material
+     heating                              118459 +/- 3737.95
+ Distributed Cell u10->c34->l5(13,-21)->u1->c4
+   Total Material
+     heating                              116065 +/- 3426.71
+ Distributed Cell u10->c34->l5(14,-21)->u1->c4
+   Total Material
+     heating                              123136 +/- 3191.82
+ Distributed Cell u10->c34->l5(15,-21)->u1->c4
+   Total Material
+     heating                              152148 +/- 4046.71
+ Distributed Cell u10->c34->l5(4,-20)->u1->c4
+   Total Material
+     heating                              135706 +/- 3910.97
+ Distributed Cell u10->c34->l5(5,-20)->u1->c4
+   Total Material
+     heating                              87759.3 +/- 2485.29
+ Distributed Cell u10->c34->l5(6,-20)->u1->c4
+   Total Material
+     heating                              63344.7 +/- 1820.12
+ Distributed Cell u10->c34->l5(7,-20)->u1->c4
+   Total Material
+     heating                              58870.9 +/- 1564.02
+ Distributed Cell u10->c34->l5(8,-20)->u1->c4
+   Total Material
+     heating                              60758.6 +/- 1764.44
+ Distributed Cell u10->c34->l5(9,-20)->u1->c4
+   Total Material
+     heating                              57860.5 +/- 1532.82
+ Distributed Cell u10->c34->l5(10,-20)->u1->c4
+   Total Material
+     heating                              57810.1 +/- 1609.54
+ Distributed Cell u10->c34->l5(11,-20)->u1->c4
+   Total Material
+     heating                              57435.2 +/- 1486.13
+ Distributed Cell u10->c34->l5(12,-20)->u1->c4
+   Total Material
+     heating                              56422.8 +/- 1330.55
+ Distributed Cell u10->c34->l5(13,-20)->u1->c4
+   Total Material
+     heating                              57770.1 +/- 1583.72
+ Distributed Cell u10->c34->l5(14,-20)->u1->c4
+   Total Material
+     heating                              59961.7 +/- 1398.28
+ Distributed Cell u10->c34->l5(15,-20)->u1->c4
+   Total Material
+     heating                              86089.2 +/- 2343.05
+ Distributed Cell u10->c34->l5(16,-20)->u1->c4
+   Total Material
+     heating                              127431 +/- 3984.14
+ Distributed Cell u10->c34->l5(1,-19)->u1->c4
+   Total Material
+     heating                              146943 +/- 4119.78
+ Distributed Cell u10->c34->l5(2,-19)->u1->c4
+   Total Material
+     heating                              104020 +/- 3188.85
+ Distributed Cell u10->c34->l5(3,-19)->u1->c4
+   Total Material
+     heating                              85800.2 +/- 2616
+ Distributed Cell u10->c34->l5(4,-19)->u1->c4
+   Total Material
+     heating                              57117.7 +/- 1444.91
+ Distributed Cell u10->c34->l5(5,-19)->u1->c4
+   Total Material
+     heating                              49534.4 +/- 1121.03
+ Distributed Cell u10->c34->l5(6,-19)->u1->c4
+   Total Material
+     heating                              49660.8 +/- 1090.21
+ Distributed Cell u10->c34->l5(7,-19)->u1->c4
+   Total Material
+     heating                              51515.1 +/- 1339.86
+ Distributed Cell u10->c34->l5(8,-19)->u1->c4
+   Total Material
+     heating                              48722 +/- 1235.33
+ Distributed Cell u10->c34->l5(9,-19)->u1->c4
+   Total Material
+     heating                              50467.2 +/- 1164.45
+ Distributed Cell u10->c34->l5(10,-19)->u1->c4
+   Total Material
+     heating                              49410.1 +/- 1180.51
+ Distributed Cell u10->c34->l5(11,-19)->u1->c4
+   Total Material
+     heating                              49529.9 +/- 1159.11
+ Distributed Cell u10->c34->l5(12,-19)->u1->c4
+   Total Material
+     heating                              48491.7 +/- 1029.23
+ Distributed Cell u10->c34->l5(13,-19)->u1->c4
+   Total Material
+     heating                              49640.4 +/- 1096
+ Distributed Cell u10->c34->l5(14,-19)->u1->c4
+   Total Material
+     heating                              52371.2 +/- 1160.08
+ Distributed Cell u10->c34->l5(15,-19)->u1->c4
+   Total Material
+     heating                              58870.3 +/- 1530.12
+ Distributed Cell u10->c34->l5(16,-19)->u1->c4
+   Total Material
+     heating                              79759.3 +/- 2372.15
+ Distributed Cell u10->c34->l5(17,-19)->u1->c4
+   Total Material
+     heating                              106172 +/- 3181.82
+ Distributed Cell u10->c34->l5(18,-19)->u1->c4
+   Total Material
+     heating                              143520 +/- 4002.74
+ Distributed Cell u10->c34->l5(-1,-18)->u1->c4
+   Total Material
+     heating                              147910 +/- 3497.25
+ Distributed Cell u10->c34->l5(0,-18)->u1->c4
+   Total Material
+     heating                              92622.7 +/- 2666
+ Distributed Cell u10->c34->l5(1,-18)->u1->c4
+   Total Material
+     heating                              61424.8 +/- 1763.84
+ Distributed Cell u10->c34->l5(2,-18)->u1->c4
+   Total Material
+     heating                              54363.5 +/- 1131.82
+ Distributed Cell u10->c34->l5(3,-18)->u1->c4
+   Total Material
+     heating                              50255 +/- 1074.59
+ Distributed Cell u10->c34->l5(4,-18)->u1->c4
+   Total Material
+     heating                              48831.3 +/- 1066.68
+ Distributed Cell u10->c34->l5(5,-18)->u1->c4
+   Total Material
+     heating                              45716.9 +/- 961.969
+ Distributed Cell u10->c34->l5(6,-18)->u1->c4
+   Total Material
+     heating                              46181.7 +/- 933.091
+ Distributed Cell u10->c34->l5(7,-18)->u1->c4
+   Total Material
+     heating                              47879.2 +/- 1062.08
+ Distributed Cell u10->c34->l5(8,-18)->u1->c4
+   Total Material
+     heating                              48135.4 +/- 973.397
+ Distributed Cell u10->c34->l5(9,-18)->u1->c4
+   Total Material
+     heating                              47887.9 +/- 1009.44
+ Distributed Cell u10->c34->l5(10,-18)->u1->c4
+   Total Material
+     heating                              49487.7 +/- 1022.06
+ Distributed Cell u10->c34->l5(11,-18)->u1->c4
+   Total Material
+     heating                              47936.3 +/- 1031.93
+ Distributed Cell u10->c34->l5(12,-18)->u1->c4
+   Total Material
+     heating                              47526.5 +/- 1068.19
+ Distributed Cell u10->c34->l5(13,-18)->u1->c4
+   Total Material
+     heating                              47408.5 +/- 1133.79
+ Distributed Cell u10->c34->l5(14,-18)->u1->c4
+   Total Material
+     heating                              50469.1 +/- 1319.94
+ Distributed Cell u10->c34->l5(15,-18)->u1->c4
+   Total Material
+     heating                              50943.4 +/- 1133.95
+ Distributed Cell u10->c34->l5(16,-18)->u1->c4
+   Total Material
+     heating                              56593.8 +/- 1654.68
+ Distributed Cell u10->c34->l5(17,-18)->u1->c4
+   Total Material
+     heating                              60599.8 +/- 1545.68
+ Distributed Cell u10->c34->l5(18,-18)->u1->c4
+   Total Material
+     heating                              87094.1 +/- 2628
+ Distributed Cell u10->c34->l5(19,-18)->u1->c4
+   Total Material
+     heating                              148128 +/- 3806.84
+ Distributed Cell u10->c34->l5(-2,-17)->u1->c4
+   Total Material
+     heating                              111060 +/- 2883.79
+ Distributed Cell u10->c34->l5(-1,-17)->u1->c4
+   Total Material
+     heating                              62342.4 +/- 1539.03
+ Distributed Cell u10->c34->l5(0,-17)->u1->c4
+   Total Material
+     heating                              51100.4 +/- 1118.61
+ Distributed Cell u10->c34->l5(1,-17)->u1->c4
+   Total Material
+     heating                              50892.1 +/- 968.922
+ Distributed Cell u10->c34->l5(2,-17)->u1->c4
+   Total Material
+     heating                              50896.7 +/- 1164.67
+ Distributed Cell u10->c34->l5(3,-17)->u1->c4
+   Total Material
+     heating                              48800.7 +/- 1032.04
+ Distributed Cell u10->c34->l5(4,-17)->u1->c4
+   Total Material
+     heating                              46698.6 +/- 866.03
+ Distributed Cell u10->c34->l5(5,-17)->u1->c4
+   Total Material
+     heating                              49024.7 +/- 1105.69
+ Distributed Cell u10->c34->l5(6,-17)->u1->c4
+   Total Material
+     heating                              48936.3 +/- 1031.16
+ Distributed Cell u10->c34->l5(7,-17)->u1->c4
+   Total Material
+     heating                              48789.8 +/- 838.756
+ Distributed Cell u10->c34->l5(8,-17)->u1->c4
+   Total Material
+     heating                              48601.7 +/- 916.537
+ Distributed Cell u10->c34->l5(9,-17)->u1->c4
+   Total Material
+     heating                              50676.6 +/- 1100.91
+ Distributed Cell u10->c34->l5(10,-17)->u1->c4
+   Total Material
+     heating                              48936.6 +/- 1081.98
+ Distributed Cell u10->c34->l5(11,-17)->u1->c4
+   Total Material
+     heating                              49000.9 +/- 961.947
+ Distributed Cell u10->c34->l5(12,-17)->u1->c4
+   Total Material
+     heating                              46354 +/- 1023.14
+ Distributed Cell u10->c34->l5(13,-17)->u1->c4
+   Total Material
+     heating                              47036.3 +/- 1196.06
+ Distributed Cell u10->c34->l5(14,-17)->u1->c4
+   Total Material
+     heating                              48025.3 +/- 991.818
+ Distributed Cell u10->c34->l5(15,-17)->u1->c4
+   Total Material
+     heating                              49355.2 +/- 1028.38
+ Distributed Cell u10->c34->l5(16,-17)->u1->c4
+   Total Material
+     heating                              52327.2 +/- 1152.13
+ Distributed Cell u10->c34->l5(17,-17)->u1->c4
+   Total Material
+     heating                              52777.8 +/- 1340.82
+ Distributed Cell u10->c34->l5(18,-17)->u1->c4
+   Total Material
+     heating                              64573.6 +/- 1738.36
+ Distributed Cell u10->c34->l5(19,-17)->u1->c4
+   Total Material
+     heating                              109995 +/- 2842.35
+ Distributed Cell u10->c34->l5(-4,-16)->u1->c4
+   Total Material
+     heating                              140383 +/- 3757.11
+ Distributed Cell u10->c34->l5(-3,-16)->u1->c4
+   Total Material
+     heating                              84848.2 +/- 2136.53
+ Distributed Cell u10->c34->l5(-2,-16)->u1->c4
+   Total Material
+     heating                              53248.2 +/- 1365.79
+ Distributed Cell u10->c34->l5(-1,-16)->u1->c4
+   Total Material
+     heating                              48875.4 +/- 1066.31
+ Distributed Cell u10->c34->l5(0,-16)->u1->c4
+   Total Material
+     heating                              48373 +/- 1025.05
+ Distributed Cell u10->c34->l5(1,-16)->u1->c4
+   Total Material
+     heating                              49235.2 +/- 1133.98
+ Distributed Cell u10->c34->l5(2,-16)->u1->c4
+   Total Material
+     heating                              47889.4 +/- 1023.28
+ Distributed Cell u10->c34->l5(3,-16)->u1->c4
+   Total Material
+     heating                              48136.5 +/- 913.005
+ Distributed Cell u10->c34->l5(4,-16)->u1->c4
+   Total Material
+     heating                              48984.2 +/- 1034.89
+ Distributed Cell u10->c34->l5(5,-16)->u1->c4
+   Total Material
+     heating                              49386.5 +/- 962.692
+ Distributed Cell u10->c34->l5(6,-16)->u1->c4
+   Total Material
+     heating                              49973.9 +/- 1015.92
+ Distributed Cell u10->c34->l5(7,-16)->u1->c4
+   Total Material
+     heating                              50200.3 +/- 1155
+ Distributed Cell u10->c34->l5(8,-16)->u1->c4
+   Total Material
+     heating                              48774.6 +/- 926.255
+ Distributed Cell u10->c34->l5(9,-16)->u1->c4
+   Total Material
+     heating                              48449.3 +/- 1055.56
+ Distributed Cell u10->c34->l5(10,-16)->u1->c4
+   Total Material
+     heating                              49372.6 +/- 990.543
+ Distributed Cell u10->c34->l5(11,-16)->u1->c4
+   Total Material
+     heating                              49075.7 +/- 972.421
+ Distributed Cell u10->c34->l5(12,-16)->u1->c4
+   Total Material
+     heating                              47254 +/- 998.348
+ Distributed Cell u10->c34->l5(13,-16)->u1->c4
+   Total Material
+     heating                              47802.4 +/- 974.212
+ Distributed Cell u10->c34->l5(14,-16)->u1->c4
+   Total Material
+     heating                              48023.5 +/- 980.968
+ Distributed Cell u10->c34->l5(15,-16)->u1->c4
+   Total Material
+     heating                              48507.9 +/- 1093.04
+ Distributed Cell u10->c34->l5(16,-16)->u1->c4
+   Total Material
+     heating                              48640.5 +/- 1122.05
+ Distributed Cell u10->c34->l5(17,-16)->u1->c4
+   Total Material
+     heating                              49990.5 +/- 1258.79
+ Distributed Cell u10->c34->l5(18,-16)->u1->c4
+   Total Material
+     heating                              56982.8 +/- 1428.62
+ Distributed Cell u10->c34->l5(19,-16)->u1->c4
+   Total Material
+     heating                              83641.7 +/- 2219.98
+ Distributed Cell u10->c34->l5(20,-16)->u1->c4
+   Total Material
+     heating                              140605 +/- 4032.98
+ Distributed Cell u10->c34->l5(-6,-15)->u1->c4
+   Total Material
+     heating                              158045 +/- 4599.15
+ Distributed Cell u10->c34->l5(-5,-15)->u1->c4
+   Total Material
+     heating                              89670 +/- 2881.29
+ Distributed Cell u10->c34->l5(-4,-15)->u1->c4
+   Total Material
+     heating                              59947.3 +/- 1781.5
+ Distributed Cell u10->c34->l5(-3,-15)->u1->c4
+   Total Material
+     heating                              51330.4 +/- 1403.63
+ Distributed Cell u10->c34->l5(-2,-15)->u1->c4
+   Total Material
+     heating                              47563.1 +/- 871.405
+ Distributed Cell u10->c34->l5(-1,-15)->u1->c4
+   Total Material
+     heating                              47337.6 +/- 1024.98
+ Distributed Cell u10->c34->l5(0,-15)->u1->c4
+   Total Material
+     heating                              48813.5 +/- 1196.65
+ Distributed Cell u10->c34->l5(1,-15)->u1->c4
+   Total Material
+     heating                              48341.2 +/- 976.324
+ Distributed Cell u10->c34->l5(2,-15)->u1->c4
+   Total Material
+     heating                              50065.6 +/- 1118.2
+ Distributed Cell u10->c34->l5(3,-15)->u1->c4
+   Total Material
+     heating                              49336.5 +/- 991.922
+ Distributed Cell u10->c34->l5(4,-15)->u1->c4
+   Total Material
+     heating                              50772.2 +/- 964.912
+ Distributed Cell u10->c34->l5(5,-15)->u1->c4
+   Total Material
+     heating                              49367.7 +/- 1036.32
+ Distributed Cell u10->c34->l5(6,-15)->u1->c4
+   Total Material
+     heating                              50756.3 +/- 994.053
+ Distributed Cell u10->c34->l5(7,-15)->u1->c4
+   Total Material
+     heating                              50439.9 +/- 1030.81
+ Distributed Cell u10->c34->l5(8,-15)->u1->c4
+   Total Material
+     heating                              51645.8 +/- 1184.79
+ Distributed Cell u10->c34->l5(9,-15)->u1->c4
+   Total Material
+     heating                              51719.7 +/- 1122.32
+ Distributed Cell u10->c34->l5(10,-15)->u1->c4
+   Total Material
+     heating                              50867.4 +/- 998.378
+ Distributed Cell u10->c34->l5(11,-15)->u1->c4
+   Total Material
+     heating                              49285.1 +/- 972.406
+ Distributed Cell u10->c34->l5(12,-15)->u1->c4
+   Total Material
+     heating                              49238.5 +/- 1026.57
+ Distributed Cell u10->c34->l5(13,-15)->u1->c4
+   Total Material
+     heating                              49476.8 +/- 910.517
+ Distributed Cell u10->c34->l5(14,-15)->u1->c4
+   Total Material
+     heating                              47521.1 +/- 933.751
+ Distributed Cell u10->c34->l5(15,-15)->u1->c4
+   Total Material
+     heating                              49285.8 +/- 1143.05
+ Distributed Cell u10->c34->l5(16,-15)->u1->c4
+   Total Material
+     heating                              47717.1 +/- 897.523
+ Distributed Cell u10->c34->l5(17,-15)->u1->c4
+   Total Material
+     heating                              48412.9 +/- 1107.32
+ Distributed Cell u10->c34->l5(18,-15)->u1->c4
+   Total Material
+     heating                              51069.2 +/- 1085.58
+ Distributed Cell u10->c34->l5(19,-15)->u1->c4
+   Total Material
+     heating                              59522.5 +/- 1467.99
+ Distributed Cell u10->c34->l5(20,-15)->u1->c4
+   Total Material
+     heating                              87353.9 +/- 2514.43
+ Distributed Cell u10->c34->l5(21,-15)->u1->c4
+   Total Material
+     heating                              153794 +/- 3873.54
+ Distributed Cell u10->c34->l5(-7,-14)->u1->c4
+   Total Material
+     heating                              124668 +/- 3454.46
+ Distributed Cell u10->c34->l5(-6,-14)->u1->c4
+   Total Material
+     heating                              62121.6 +/- 1573.08
+ Distributed Cell u10->c34->l5(-5,-14)->u1->c4
+   Total Material
+     heating                              54410.6 +/- 1522.36
+ Distributed Cell u10->c34->l5(-4,-14)->u1->c4
+   Total Material
+     heating                              49828.2 +/- 1238.68
+ Distributed Cell u10->c34->l5(-3,-14)->u1->c4
+   Total Material
+     heating                              48377.4 +/- 981.148
+ Distributed Cell u10->c34->l5(-2,-14)->u1->c4
+   Total Material
+     heating                              47605.4 +/- 1000.84
+ Distributed Cell u10->c34->l5(-1,-14)->u1->c4
+   Total Material
+     heating                              49282.4 +/- 873.622
+ Distributed Cell u10->c34->l5(0,-14)->u1->c4
+   Total Material
+     heating                              50042.6 +/- 1120.15
+ Distributed Cell u10->c34->l5(1,-14)->u1->c4
+   Total Material
+     heating                              52478.8 +/- 1104.03
+ Distributed Cell u10->c34->l5(2,-14)->u1->c4
+   Total Material
+     heating                              50515.9 +/- 1063.24
+ Distributed Cell u10->c34->l5(3,-14)->u1->c4
+   Total Material
+     heating                              52207.8 +/- 956.385
+ Distributed Cell u10->c34->l5(4,-14)->u1->c4
+   Total Material
+     heating                              51882.7 +/- 1031.47
+ Distributed Cell u10->c34->l5(5,-14)->u1->c4
+   Total Material
+     heating                              53349.4 +/- 925.034
+ Distributed Cell u10->c34->l5(6,-14)->u1->c4
+   Total Material
+     heating                              53242.2 +/- 1065.71
+ Distributed Cell u10->c34->l5(7,-14)->u1->c4
+   Total Material
+     heating                              51784.1 +/- 906.952
+ Distributed Cell u10->c34->l5(8,-14)->u1->c4
+   Total Material
+     heating                              52480.6 +/- 1035.31
+ Distributed Cell u10->c34->l5(9,-14)->u1->c4
+   Total Material
+     heating                              53439 +/- 1182.82
+ Distributed Cell u10->c34->l5(10,-14)->u1->c4
+   Total Material
+     heating                              52266.6 +/- 1208.26
+ Distributed Cell u10->c34->l5(11,-14)->u1->c4
+   Total Material
+     heating                              51022.6 +/- 984.597
+ Distributed Cell u10->c34->l5(12,-14)->u1->c4
+   Total Material
+     heating                              51417.2 +/- 1036.41
+ Distributed Cell u10->c34->l5(13,-14)->u1->c4
+   Total Material
+     heating                              49772.6 +/- 995.098
+ Distributed Cell u10->c34->l5(14,-14)->u1->c4
+   Total Material
+     heating                              50056 +/- 1005.43
+ Distributed Cell u10->c34->l5(15,-14)->u1->c4
+   Total Material
+     heating                              51130.1 +/- 1199.57
+ Distributed Cell u10->c34->l5(16,-14)->u1->c4
+   Total Material
+     heating                              47574.3 +/- 998.146
+ Distributed Cell u10->c34->l5(17,-14)->u1->c4
+   Total Material
+     heating                              48408.8 +/- 1032.34
+ Distributed Cell u10->c34->l5(18,-14)->u1->c4
+   Total Material
+     heating                              48098.1 +/- 1157.15
+ Distributed Cell u10->c34->l5(19,-14)->u1->c4
+   Total Material
+     heating                              52399.4 +/- 1556.17
+ Distributed Cell u10->c34->l5(20,-14)->u1->c4
+   Total Material
+     heating                              59870.2 +/- 1697.09
+ Distributed Cell u10->c34->l5(21,-14)->u1->c4
+   Total Material
+     heating                              123230 +/- 3486.71
+ Distributed Cell u10->c34->l5(-8,-13)->u1->c4
+   Total Material
+     heating                              113314 +/- 3093
+ Distributed Cell u10->c34->l5(-7,-13)->u1->c4
+   Total Material
+     heating                              59171.5 +/- 1595.67
+ Distributed Cell u10->c34->l5(-6,-13)->u1->c4
+   Total Material
+     heating                              49238.8 +/- 1138.45
+ Distributed Cell u10->c34->l5(-5,-13)->u1->c4
+   Total Material
+     heating                              47585.6 +/- 1070.94
+ Distributed Cell u10->c34->l5(-4,-13)->u1->c4
+   Total Material
+     heating                              48750.1 +/- 1054.99
+ Distributed Cell u10->c34->l5(-3,-13)->u1->c4
+   Total Material
+     heating                              48532 +/- 955.732
+ Distributed Cell u10->c34->l5(-2,-13)->u1->c4
+   Total Material
+     heating                              51097.3 +/- 1144.11
+ Distributed Cell u10->c34->l5(-1,-13)->u1->c4
+   Total Material
+     heating                              49949.1 +/- 1096.16
+ Distributed Cell u10->c34->l5(0,-13)->u1->c4
+   Total Material
+     heating                              52560.5 +/- 925.742
+ Distributed Cell u10->c34->l5(1,-13)->u1->c4
+   Total Material
+     heating                              52420.2 +/- 984.268
+ Distributed Cell u10->c34->l5(2,-13)->u1->c4
+   Total Material
+     heating                              52701.9 +/- 919.024
+ Distributed Cell u10->c34->l5(3,-13)->u1->c4
+   Total Material
+     heating                              53291.8 +/- 1004.3
+ Distributed Cell u10->c34->l5(4,-13)->u1->c4
+   Total Material
+     heating                              54604.2 +/- 920.638
+ Distributed Cell u10->c34->l5(5,-13)->u1->c4
+   Total Material
+     heating                              55233.4 +/- 1185.26
+ Distributed Cell u10->c34->l5(6,-13)->u1->c4
+   Total Material
+     heating                              53929 +/- 954.875
+ Distributed Cell u10->c34->l5(7,-13)->u1->c4
+   Total Material
+     heating                              54824.4 +/- 988.7
+ Distributed Cell u10->c34->l5(8,-13)->u1->c4
+   Total Material
+     heating                              54079.1 +/- 991.128
+ Distributed Cell u10->c34->l5(9,-13)->u1->c4
+   Total Material
+     heating                              54917.2 +/- 1103.15
+ Distributed Cell u10->c34->l5(10,-13)->u1->c4
+   Total Material
+     heating                              54130 +/- 1137.9
+ Distributed Cell u10->c34->l5(11,-13)->u1->c4
+   Total Material
+     heating                              52272.5 +/- 1031.97
+ Distributed Cell u10->c34->l5(12,-13)->u1->c4
+   Total Material
+     heating                              53691 +/- 974.739
+ Distributed Cell u10->c34->l5(13,-13)->u1->c4
+   Total Material
+     heating                              51766.1 +/- 981.262
+ Distributed Cell u10->c34->l5(14,-13)->u1->c4
+   Total Material
+     heating                              50860.4 +/- 1046.69
+ Distributed Cell u10->c34->l5(15,-13)->u1->c4
+   Total Material
+     heating                              48169.1 +/- 932.827
+ Distributed Cell u10->c34->l5(16,-13)->u1->c4
+   Total Material
+     heating                              48819.5 +/- 1065.42
+ Distributed Cell u10->c34->l5(17,-13)->u1->c4
+   Total Material
+     heating                              48583 +/- 966.894
+ Distributed Cell u10->c34->l5(18,-13)->u1->c4
+   Total Material
+     heating                              46348.9 +/- 1077.52
+ Distributed Cell u10->c34->l5(19,-13)->u1->c4
+   Total Material
+     heating                              49222 +/- 1053
+ Distributed Cell u10->c34->l5(20,-13)->u1->c4
+   Total Material
+     heating                              57688.7 +/- 1584.86
+ Distributed Cell u10->c34->l5(21,-13)->u1->c4
+   Total Material
+     heating                              119774 +/- 3408.98
+ Distributed Cell u10->c34->l5(-9,-12)->u1->c4
+   Total Material
+     heating                              123984 +/- 3166.02
+ Distributed Cell u10->c34->l5(-8,-12)->u1->c4
+   Total Material
+     heating                              61108 +/- 1581.84
+ Distributed Cell u10->c34->l5(-7,-12)->u1->c4
+   Total Material
+     heating                              50269 +/- 1216.04
+ Distributed Cell u10->c34->l5(-6,-12)->u1->c4
+   Total Material
+     heating                              47524 +/- 936.482
+ Distributed Cell u10->c34->l5(-5,-12)->u1->c4
+   Total Material
+     heating                              48759.7 +/- 1028.46
+ Distributed Cell u10->c34->l5(-4,-12)->u1->c4
+   Total Material
+     heating                              49593.4 +/- 1038.8
+ Distributed Cell u10->c34->l5(-3,-12)->u1->c4
+   Total Material
+     heating                              50806.3 +/- 1088.56
+ Distributed Cell u10->c34->l5(-2,-12)->u1->c4
+   Total Material
+     heating                              52502.3 +/- 992.453
+ Distributed Cell u10->c34->l5(-1,-12)->u1->c4
+   Total Material
+     heating                              52781.2 +/- 1026.72
+ Distributed Cell u10->c34->l5(0,-12)->u1->c4
+   Total Material
+     heating                              53254.6 +/- 870.902
+ Distributed Cell u10->c34->l5(1,-12)->u1->c4
+   Total Material
+     heating                              55561.1 +/- 1075.27
+ Distributed Cell u10->c34->l5(2,-12)->u1->c4
+   Total Material
+     heating                              56076.5 +/- 1013.25
+ Distributed Cell u10->c34->l5(3,-12)->u1->c4
+   Total Material
+     heating                              56443.9 +/- 1104.98
+ Distributed Cell u10->c34->l5(4,-12)->u1->c4
+   Total Material
+     heating                              56588.3 +/- 1168.22
+ Distributed Cell u10->c34->l5(5,-12)->u1->c4
+   Total Material
+     heating                              57957.6 +/- 975.032
+ Distributed Cell u10->c34->l5(6,-12)->u1->c4
+   Total Material
+     heating                              56691.8 +/- 1102.79
+ Distributed Cell u10->c34->l5(7,-12)->u1->c4
+   Total Material
+     heating                              55707.6 +/- 1136.87
+ Distributed Cell u10->c34->l5(8,-12)->u1->c4
+   Total Material
+     heating                              53229.9 +/- 1143.32
+ Distributed Cell u10->c34->l5(9,-12)->u1->c4
+   Total Material
+     heating                              57050.3 +/- 1093.4
+ Distributed Cell u10->c34->l5(10,-12)->u1->c4
+   Total Material
+     heating                              55266.8 +/- 1146.09
+ Distributed Cell u10->c34->l5(11,-12)->u1->c4
+   Total Material
+     heating                              55143 +/- 1050.31
+ Distributed Cell u10->c34->l5(12,-12)->u1->c4
+   Total Material
+     heating                              53708 +/- 1103.41
+ Distributed Cell u10->c34->l5(13,-12)->u1->c4
+   Total Material
+     heating                              52167.7 +/- 1031.83
+ Distributed Cell u10->c34->l5(14,-12)->u1->c4
+   Total Material
+     heating                              50411.1 +/- 954.72
+ Distributed Cell u10->c34->l5(15,-12)->u1->c4
+   Total Material
+     heating                              49903.3 +/- 1102.22
+ Distributed Cell u10->c34->l5(16,-12)->u1->c4
+   Total Material
+     heating                              48144.7 +/- 904.676
+ Distributed Cell u10->c34->l5(17,-12)->u1->c4
+   Total Material
+     heating                              47847.3 +/- 970.1
+ Distributed Cell u10->c34->l5(18,-12)->u1->c4
+   Total Material
+     heating                              47563.9 +/- 965.847
+ Distributed Cell u10->c34->l5(19,-12)->u1->c4
+   Total Material
+     heating                              49772.2 +/- 1260.65
+ Distributed Cell u10->c34->l5(20,-12)->u1->c4
+   Total Material
+     heating                              59211.3 +/- 1739.82
+ Distributed Cell u10->c34->l5(21,-12)->u1->c4
+   Total Material
+     heating                              115378 +/- 3290.83
+ Distributed Cell u10->c34->l5(-10,-11)->u1->c4
+   Total Material
+     heating                              117619 +/- 3403.52
+ Distributed Cell u10->c34->l5(-9,-11)->u1->c4
+   Total Material
+     heating                              57745.6 +/- 1376.3
+ Distributed Cell u10->c34->l5(-8,-11)->u1->c4
+   Total Material
+     heating                              49629.4 +/- 1098.74
+ Distributed Cell u10->c34->l5(-7,-11)->u1->c4
+   Total Material
+     heating                              47429.6 +/- 1087.2
+ Distributed Cell u10->c34->l5(-6,-11)->u1->c4
+   Total Material
+     heating                              47805.8 +/- 952.818
+ Distributed Cell u10->c34->l5(-5,-11)->u1->c4
+   Total Material
+     heating                              51145 +/- 1031.96
+ Distributed Cell u10->c34->l5(-4,-11)->u1->c4
+   Total Material
+     heating                              51380.2 +/- 885.059
+ Distributed Cell u10->c34->l5(-3,-11)->u1->c4
+   Total Material
+     heating                              52317.9 +/- 913.756
+ Distributed Cell u10->c34->l5(-2,-11)->u1->c4
+   Total Material
+     heating                              51937.7 +/- 932.53
+ Distributed Cell u10->c34->l5(-1,-11)->u1->c4
+   Total Material
+     heating                              55102.9 +/- 1109.62
+ Distributed Cell u10->c34->l5(0,-11)->u1->c4
+   Total Material
+     heating                              54464.6 +/- 1007.27
+ Distributed Cell u10->c34->l5(1,-11)->u1->c4
+   Total Material
+     heating                              56838.2 +/- 1095.08
+ Distributed Cell u10->c34->l5(2,-11)->u1->c4
+   Total Material
+     heating                              57350.1 +/- 979.586
+ Distributed Cell u10->c34->l5(3,-11)->u1->c4
+   Total Material
+     heating                              57248.9 +/- 1058.02
+ Distributed Cell u10->c34->l5(4,-11)->u1->c4
+   Total Material
+     heating                              59182.6 +/- 1050.69
+ Distributed Cell u10->c34->l5(5,-11)->u1->c4
+   Total Material
+     heating                              57808.9 +/- 1040.63
+ Distributed Cell u10->c34->l5(6,-11)->u1->c4
+   Total Material
+     heating                              56420.2 +/- 871.918
+ Distributed Cell u10->c34->l5(7,-11)->u1->c4
+   Total Material
+     heating                              57354.6 +/- 1111.85
+ Distributed Cell u10->c34->l5(8,-11)->u1->c4
+   Total Material
+     heating                              56986.2 +/- 1078.04
+ Distributed Cell u10->c34->l5(9,-11)->u1->c4
+   Total Material
+     heating                              55890.1 +/- 1081.9
+ Distributed Cell u10->c34->l5(10,-11)->u1->c4
+   Total Material
+     heating                              56890.3 +/- 949.973
+ Distributed Cell u10->c34->l5(11,-11)->u1->c4
+   Total Material
+     heating                              57228.6 +/- 1049.75
+ Distributed Cell u10->c34->l5(12,-11)->u1->c4
+   Total Material
+     heating                              54179 +/- 954.424
+ Distributed Cell u10->c34->l5(13,-11)->u1->c4
+   Total Material
+     heating                              53031.2 +/- 875.091
+ Distributed Cell u10->c34->l5(14,-11)->u1->c4
+   Total Material
+     heating                              52466.9 +/- 1141.86
+ Distributed Cell u10->c34->l5(15,-11)->u1->c4
+   Total Material
+     heating                              50105.9 +/- 985.959
+ Distributed Cell u10->c34->l5(16,-11)->u1->c4
+   Total Material
+     heating                              47796.1 +/- 994.611
+ Distributed Cell u10->c34->l5(17,-11)->u1->c4
+   Total Material
+     heating                              47396.5 +/- 894.968
+ Distributed Cell u10->c34->l5(18,-11)->u1->c4
+   Total Material
+     heating                              48563.9 +/- 1051.12
+ Distributed Cell u10->c34->l5(19,-11)->u1->c4
+   Total Material
+     heating                              47552.6 +/- 1194.95
+ Distributed Cell u10->c34->l5(20,-11)->u1->c4
+   Total Material
+     heating                              54112.8 +/- 1294.63
+ Distributed Cell u10->c34->l5(21,-11)->u1->c4
+   Total Material
+     heating                              118819 +/- 3424.77
+ Distributed Cell u10->c34->l5(-11,-10)->u1->c4
+   Total Material
+     heating                              123956 +/- 3095.36
+ Distributed Cell u10->c34->l5(-10,-10)->u1->c4
+   Total Material
+     heating                              56966.8 +/- 1413.06
+ Distributed Cell u10->c34->l5(-9,-10)->u1->c4
+   Total Material
+     heating                              50770.1 +/- 1227.11
+ Distributed Cell u10->c34->l5(-8,-10)->u1->c4
+   Total Material
+     heating                              48917.7 +/- 939.956
+ Distributed Cell u10->c34->l5(-7,-10)->u1->c4
+   Total Material
+     heating                              46734.3 +/- 989.002
+ Distributed Cell u10->c34->l5(-6,-10)->u1->c4
+   Total Material
+     heating                              49583.7 +/- 1025.22
+ Distributed Cell u10->c34->l5(-5,-10)->u1->c4
+   Total Material
+     heating                              50976.4 +/- 1097.22
+ Distributed Cell u10->c34->l5(-4,-10)->u1->c4
+   Total Material
+     heating                              54336.6 +/- 1142.34
+ Distributed Cell u10->c34->l5(-3,-10)->u1->c4
+   Total Material
+     heating                              52283.9 +/- 984.732
+ Distributed Cell u10->c34->l5(-2,-10)->u1->c4
+   Total Material
+     heating                              55597.9 +/- 991.383
+ Distributed Cell u10->c34->l5(-1,-10)->u1->c4
+   Total Material
+     heating                              58371.6 +/- 1244.5
+ Distributed Cell u10->c34->l5(0,-10)->u1->c4
+   Total Material
+     heating                              57360.8 +/- 1060.93
+ Distributed Cell u10->c34->l5(1,-10)->u1->c4
+   Total Material
+     heating                              58156.9 +/- 1087.75
+ Distributed Cell u10->c34->l5(2,-10)->u1->c4
+   Total Material
+     heating                              57532.1 +/- 1172.31
+ Distributed Cell u10->c34->l5(3,-10)->u1->c4
+   Total Material
+     heating                              60483.6 +/- 1102.02
+ Distributed Cell u10->c34->l5(4,-10)->u1->c4
+   Total Material
+     heating                              59682.1 +/- 1238.5
+ Distributed Cell u10->c34->l5(5,-10)->u1->c4
+   Total Material
+     heating                              59060.1 +/- 1083.89
+ Distributed Cell u10->c34->l5(6,-10)->u1->c4
+   Total Material
+     heating                              58696.6 +/- 1150.66
+ Distributed Cell u10->c34->l5(7,-10)->u1->c4
+   Total Material
+     heating                              57827.4 +/- 1082.56
+ Distributed Cell u10->c34->l5(8,-10)->u1->c4
+   Total Material
+     heating                              58342.1 +/- 1071.45
+ Distributed Cell u10->c34->l5(9,-10)->u1->c4
+   Total Material
+     heating                              59779.9 +/- 1123.38
+ Distributed Cell u10->c34->l5(10,-10)->u1->c4
+   Total Material
+     heating                              57107.7 +/- 1101.3
+ Distributed Cell u10->c34->l5(11,-10)->u1->c4
+   Total Material
+     heating                              56516.7 +/- 1395.01
+ Distributed Cell u10->c34->l5(12,-10)->u1->c4
+   Total Material
+     heating                              55780.5 +/- 1032.36
+ Distributed Cell u10->c34->l5(13,-10)->u1->c4
+   Total Material
+     heating                              51459 +/- 853.153
+ Distributed Cell u10->c34->l5(14,-10)->u1->c4
+   Total Material
+     heating                              51234.2 +/- 952.592
+ Distributed Cell u10->c34->l5(15,-10)->u1->c4
+   Total Material
+     heating                              51536 +/- 979.355
+ Distributed Cell u10->c34->l5(16,-10)->u1->c4
+   Total Material
+     heating                              48787 +/- 968.316
+ Distributed Cell u10->c34->l5(17,-10)->u1->c4
+   Total Material
+     heating                              49687 +/- 1112.24
+ Distributed Cell u10->c34->l5(18,-10)->u1->c4
+   Total Material
+     heating                              46537.9 +/- 993.445
+ Distributed Cell u10->c34->l5(19,-10)->u1->c4
+   Total Material
+     heating                              49019.4 +/- 1299.94
+ Distributed Cell u10->c34->l5(20,-10)->u1->c4
+   Total Material
+     heating                              55875.2 +/- 1544.68
+ Distributed Cell u10->c34->l5(21,-10)->u1->c4
+   Total Material
+     heating                              117138 +/- 3070.38
+ Distributed Cell u10->c34->l5(-12,-9)->u1->c4
+   Total Material
+     heating                              119706 +/- 3388.29
+ Distributed Cell u10->c34->l5(-11,-9)->u1->c4
+   Total Material
+     heating                              59619.5 +/- 1622.91
+ Distributed Cell u10->c34->l5(-10,-9)->u1->c4
+   Total Material
+     heating                              49509.7 +/- 1155.35
+ Distributed Cell u10->c34->l5(-9,-9)->u1->c4
+   Total Material
+     heating                              47433.3 +/- 1075.41
+ Distributed Cell u10->c34->l5(-8,-9)->u1->c4
+   Total Material
+     heating                              48951.8 +/- 1020.72
+ Distributed Cell u10->c34->l5(-7,-9)->u1->c4
+   Total Material
+     heating                              49161.5 +/- 861.051
+ Distributed Cell u10->c34->l5(-6,-9)->u1->c4
+   Total Material
+     heating                              51250.7 +/- 958.206
+ Distributed Cell u10->c34->l5(-5,-9)->u1->c4
+   Total Material
+     heating                              54663.7 +/- 1021.32
+ Distributed Cell u10->c34->l5(-4,-9)->u1->c4
+   Total Material
+     heating                              56544.8 +/- 1075.45
+ Distributed Cell u10->c34->l5(-3,-9)->u1->c4
+   Total Material
+     heating                              55784.4 +/- 971.766
+ Distributed Cell u10->c34->l5(-2,-9)->u1->c4
+   Total Material
+     heating                              56678.5 +/- 985.677
+ Distributed Cell u10->c34->l5(-1,-9)->u1->c4
+   Total Material
+     heating                              57768.9 +/- 1052.79
+ Distributed Cell u10->c34->l5(0,-9)->u1->c4
+   Total Material
+     heating                              58708.3 +/- 995.725
+ Distributed Cell u10->c34->l5(1,-9)->u1->c4
+   Total Material
+     heating                              58512.7 +/- 1087.03
+ Distributed Cell u10->c34->l5(2,-9)->u1->c4
+   Total Material
+     heating                              62208.6 +/- 1166.92
+ Distributed Cell u10->c34->l5(3,-9)->u1->c4
+   Total Material
+     heating                              60544.7 +/- 1163.63
+ Distributed Cell u10->c34->l5(4,-9)->u1->c4
+   Total Material
+     heating                              59658.7 +/- 1064.51
+ Distributed Cell u10->c34->l5(5,-9)->u1->c4
+   Total Material
+     heating                              58601.1 +/- 1075.52
+ Distributed Cell u10->c34->l5(6,-9)->u1->c4
+   Total Material
+     heating                              61370.9 +/- 1070.89
+ Distributed Cell u10->c34->l5(7,-9)->u1->c4
+   Total Material
+     heating                              61004.4 +/- 1089.48
+ Distributed Cell u10->c34->l5(8,-9)->u1->c4
+   Total Material
+     heating                              59714 +/- 978.619
+ Distributed Cell u10->c34->l5(9,-9)->u1->c4
+   Total Material
+     heating                              60272.8 +/- 1045.08
+ Distributed Cell u10->c34->l5(10,-9)->u1->c4
+   Total Material
+     heating                              58278.7 +/- 1281.09
+ Distributed Cell u10->c34->l5(11,-9)->u1->c4
+   Total Material
+     heating                              57400.2 +/- 1079.39
+ Distributed Cell u10->c34->l5(12,-9)->u1->c4
+   Total Material
+     heating                              55938.3 +/- 1148.02
+ Distributed Cell u10->c34->l5(13,-9)->u1->c4
+   Total Material
+     heating                              55310.3 +/- 1056.28
+ Distributed Cell u10->c34->l5(14,-9)->u1->c4
+   Total Material
+     heating                              52076.1 +/- 1000.91
+ Distributed Cell u10->c34->l5(15,-9)->u1->c4
+   Total Material
+     heating                              49855 +/- 879.748
+ Distributed Cell u10->c34->l5(16,-9)->u1->c4
+   Total Material
+     heating                              48232.8 +/- 986.132
+ Distributed Cell u10->c34->l5(17,-9)->u1->c4
+   Total Material
+     heating                              48634.3 +/- 953.07
+ Distributed Cell u10->c34->l5(18,-9)->u1->c4
+   Total Material
+     heating                              48202.3 +/- 1122.5
+ Distributed Cell u10->c34->l5(19,-9)->u1->c4
+   Total Material
+     heating                              50180 +/- 1127.18
+ Distributed Cell u10->c34->l5(20,-9)->u1->c4
+   Total Material
+     heating                              56486.3 +/- 1540.76
+ Distributed Cell u10->c34->l5(21,-9)->u1->c4
+   Total Material
+     heating                              123492 +/- 3652.52
+ Distributed Cell u10->c34->l5(-13,-8)->u1->c4
+   Total Material
+     heating                              120472 +/- 3268.71
+ Distributed Cell u10->c34->l5(-12,-8)->u1->c4
+   Total Material
+     heating                              57990.7 +/- 1513.44
+ Distributed Cell u10->c34->l5(-11,-8)->u1->c4
+   Total Material
+     heating                              48204.4 +/- 1126.62
+ Distributed Cell u10->c34->l5(-10,-8)->u1->c4
+   Total Material
+     heating                              47626.4 +/- 960.019
+ Distributed Cell u10->c34->l5(-9,-8)->u1->c4
+   Total Material
+     heating                              47985 +/- 1049.29
+ Distributed Cell u10->c34->l5(-8,-8)->u1->c4
+   Total Material
+     heating                              48849.9 +/- 1050.1
+ Distributed Cell u10->c34->l5(-7,-8)->u1->c4
+   Total Material
+     heating                              51340 +/- 937.878
+ Distributed Cell u10->c34->l5(-6,-8)->u1->c4
+   Total Material
+     heating                              53192.6 +/- 1009.27
+ Distributed Cell u10->c34->l5(-5,-8)->u1->c4
+   Total Material
+     heating                              55703.5 +/- 1065.89
+ Distributed Cell u10->c34->l5(-4,-8)->u1->c4
+   Total Material
+     heating                              56710.5 +/- 1015.9
+ Distributed Cell u10->c34->l5(-3,-8)->u1->c4
+   Total Material
+     heating                              56294.2 +/- 1229.15
+ Distributed Cell u10->c34->l5(-2,-8)->u1->c4
+   Total Material
+     heating                              56905.2 +/- 998.843
+ Distributed Cell u10->c34->l5(-1,-8)->u1->c4
+   Total Material
+     heating                              57906.8 +/- 1077.09
+ Distributed Cell u10->c34->l5(0,-8)->u1->c4
+   Total Material
+     heating                              60891.4 +/- 1285.82
+ Distributed Cell u10->c34->l5(1,-8)->u1->c4
+   Total Material
+     heating                              61228.5 +/- 1199.87
+ Distributed Cell u10->c34->l5(2,-8)->u1->c4
+   Total Material
+     heating                              62613.8 +/- 1093.43
+ Distributed Cell u10->c34->l5(3,-8)->u1->c4
+   Total Material
+     heating                              61237.8 +/- 1153.46
+ Distributed Cell u10->c34->l5(4,-8)->u1->c4
+   Total Material
+     heating                              60156.8 +/- 1089.79
+ Distributed Cell u10->c34->l5(5,-8)->u1->c4
+   Total Material
+     heating                              61250.9 +/- 1089.11
+ Distributed Cell u10->c34->l5(6,-8)->u1->c4
+   Total Material
+     heating                              61554.3 +/- 1099.6
+ Distributed Cell u10->c34->l5(7,-8)->u1->c4
+   Total Material
+     heating                              61520.8 +/- 1219.45
+ Distributed Cell u10->c34->l5(8,-8)->u1->c4
+   Total Material
+     heating                              59979.2 +/- 1166.48
+ Distributed Cell u10->c34->l5(9,-8)->u1->c4
+   Total Material
+     heating                              58462.3 +/- 1019.99
+ Distributed Cell u10->c34->l5(10,-8)->u1->c4
+   Total Material
+     heating                              58862.5 +/- 993.357
+ Distributed Cell u10->c34->l5(11,-8)->u1->c4
+   Total Material
+     heating                              56462.3 +/- 983.042
+ Distributed Cell u10->c34->l5(12,-8)->u1->c4
+   Total Material
+     heating                              56640.9 +/- 1119.28
+ Distributed Cell u10->c34->l5(13,-8)->u1->c4
+   Total Material
+     heating                              54935.1 +/- 948.663
+ Distributed Cell u10->c34->l5(14,-8)->u1->c4
+   Total Material
+     heating                              52818.9 +/- 922.594
+ Distributed Cell u10->c34->l5(15,-8)->u1->c4
+   Total Material
+     heating                              51448.4 +/- 1158.36
+ Distributed Cell u10->c34->l5(16,-8)->u1->c4
+   Total Material
+     heating                              49144.8 +/- 1055.25
+ Distributed Cell u10->c34->l5(17,-8)->u1->c4
+   Total Material
+     heating                              47883.5 +/- 968.274
+ Distributed Cell u10->c34->l5(18,-8)->u1->c4
+   Total Material
+     heating                              48771.5 +/- 1137.68
+ Distributed Cell u10->c34->l5(19,-8)->u1->c4
+   Total Material
+     heating                              47640.3 +/- 979.039
+ Distributed Cell u10->c34->l5(20,-8)->u1->c4
+   Total Material
+     heating                              58566.3 +/- 1371.98
+ Distributed Cell u10->c34->l5(21,-8)->u1->c4
+   Total Material
+     heating                              110175 +/- 3268.65
+ Distributed Cell u10->c34->l5(-14,-7)->u1->c4
+   Total Material
+     heating                              129610 +/- 3640.55
+ Distributed Cell u10->c34->l5(-13,-7)->u1->c4
+   Total Material
+     heating                              57267.8 +/- 1523.95
+ Distributed Cell u10->c34->l5(-12,-7)->u1->c4
+   Total Material
+     heating                              46448.1 +/- 922.719
+ Distributed Cell u10->c34->l5(-11,-7)->u1->c4
+   Total Material
+     heating                              47442.5 +/- 1082.73
+ Distributed Cell u10->c34->l5(-10,-7)->u1->c4
+   Total Material
+     heating                              49280.7 +/- 1017.27
+ Distributed Cell u10->c34->l5(-9,-7)->u1->c4
+   Total Material
+     heating                              50293.7 +/- 1085.23
+ Distributed Cell u10->c34->l5(-8,-7)->u1->c4
+   Total Material
+     heating                              51275.5 +/- 1060.06
+ Distributed Cell u10->c34->l5(-7,-7)->u1->c4
+   Total Material
+     heating                              53701.9 +/- 1147.24
+ Distributed Cell u10->c34->l5(-6,-7)->u1->c4
+   Total Material
+     heating                              54955.4 +/- 1094.01
+ Distributed Cell u10->c34->l5(-5,-7)->u1->c4
+   Total Material
+     heating                              55823.1 +/- 858.24
+ Distributed Cell u10->c34->l5(-4,-7)->u1->c4
+   Total Material
+     heating                              56927.5 +/- 1122.26
+ Distributed Cell u10->c34->l5(-3,-7)->u1->c4
+   Total Material
+     heating                              58567.3 +/- 1206.94
+ Distributed Cell u10->c34->l5(-2,-7)->u1->c4
+   Total Material
+     heating                              58811.5 +/- 1078.02
+ Distributed Cell u10->c34->l5(-1,-7)->u1->c4
+   Total Material
+     heating                              60729.2 +/- 991.157
+ Distributed Cell u10->c34->l5(0,-7)->u1->c4
+   Total Material
+     heating                              63850.9 +/- 1239.2
+ Distributed Cell u10->c34->l5(1,-7)->u1->c4
+   Total Material
+     heating                              59366.6 +/- 950.361
+ Distributed Cell u10->c34->l5(2,-7)->u1->c4
+   Total Material
+     heating                              62581.9 +/- 1143.41
+ Distributed Cell u10->c34->l5(3,-7)->u1->c4
+   Total Material
+     heating                              61913.3 +/- 1202.35
+ Distributed Cell u10->c34->l5(4,-7)->u1->c4
+   Total Material
+     heating                              62023.4 +/- 1202.2
+ Distributed Cell u10->c34->l5(5,-7)->u1->c4
+   Total Material
+     heating                              62412.1 +/- 1217.72
+ Distributed Cell u10->c34->l5(6,-7)->u1->c4
+   Total Material
+     heating                              63101.6 +/- 1064.18
+ Distributed Cell u10->c34->l5(7,-7)->u1->c4
+   Total Material
+     heating                              59492.7 +/- 1095.4
+ Distributed Cell u10->c34->l5(8,-7)->u1->c4
+   Total Material
+     heating                              60938.7 +/- 997.224
+ Distributed Cell u10->c34->l5(9,-7)->u1->c4
+   Total Material
+     heating                              60098.4 +/- 1195.33
+ Distributed Cell u10->c34->l5(10,-7)->u1->c4
+   Total Material
+     heating                              60139.7 +/- 1265.85
+ Distributed Cell u10->c34->l5(11,-7)->u1->c4
+   Total Material
+     heating                              58561.7 +/- 971.932
+ Distributed Cell u10->c34->l5(12,-7)->u1->c4
+   Total Material
+     heating                              56401.7 +/- 982.091
+ Distributed Cell u10->c34->l5(13,-7)->u1->c4
+   Total Material
+     heating                              53805.7 +/- 951.1
+ Distributed Cell u10->c34->l5(14,-7)->u1->c4
+   Total Material
+     heating                              52222.1 +/- 928.413
+ Distributed Cell u10->c34->l5(15,-7)->u1->c4
+   Total Material
+     heating                              50838 +/- 1045.85
+ Distributed Cell u10->c34->l5(16,-7)->u1->c4
+   Total Material
+     heating                              49896.7 +/- 1122.99
+ Distributed Cell u10->c34->l5(17,-7)->u1->c4
+   Total Material
+     heating                              50260 +/- 933.896
+ Distributed Cell u10->c34->l5(18,-7)->u1->c4
+   Total Material
+     heating                              48865.7 +/- 1039.63
+ Distributed Cell u10->c34->l5(19,-7)->u1->c4
+   Total Material
+     heating                              50409.5 +/- 1241.42
+ Distributed Cell u10->c34->l5(20,-7)->u1->c4
+   Total Material
+     heating                              57365.3 +/- 1395.87
+ Distributed Cell u10->c34->l5(21,-7)->u1->c4
+   Total Material
+     heating                              122626 +/- 3239.28
+ Distributed Cell u10->c34->l5(-15,-6)->u1->c4
+   Total Material
+     heating                              149637 +/- 4533.94
+ Distributed Cell u10->c34->l5(-14,-6)->u1->c4
+   Total Material
+     heating                              66983.6 +/- 1779.36
+ Distributed Cell u10->c34->l5(-13,-6)->u1->c4
+   Total Material
+     heating                              49753.2 +/- 1097.88
+ Distributed Cell u10->c34->l5(-12,-6)->u1->c4
+   Total Material
+     heating                              48163.5 +/- 1090.71
+ Distributed Cell u10->c34->l5(-11,-6)->u1->c4
+   Total Material
+     heating                              47913.3 +/- 985.78
+ Distributed Cell u10->c34->l5(-10,-6)->u1->c4
+   Total Material
+     heating                              49083.2 +/- 1002.15
+ Distributed Cell u10->c34->l5(-9,-6)->u1->c4
+   Total Material
+     heating                              52969.8 +/- 1145.04
+ Distributed Cell u10->c34->l5(-8,-6)->u1->c4
+   Total Material
+     heating                              53338.6 +/- 1181.72
+ Distributed Cell u10->c34->l5(-7,-6)->u1->c4
+   Total Material
+     heating                              54610.2 +/- 1083.5
+ Distributed Cell u10->c34->l5(-6,-6)->u1->c4
+   Total Material
+     heating                              57243.3 +/- 1052.14
+ Distributed Cell u10->c34->l5(-5,-6)->u1->c4
+   Total Material
+     heating                              60070.4 +/- 1345.25
+ Distributed Cell u10->c34->l5(-4,-6)->u1->c4
+   Total Material
+     heating                              61398.7 +/- 1134.3
+ Distributed Cell u10->c34->l5(-3,-6)->u1->c4
+   Total Material
+     heating                              62227.9 +/- 1144.67
+ Distributed Cell u10->c34->l5(-2,-6)->u1->c4
+   Total Material
+     heating                              62063.3 +/- 1065.43
+ Distributed Cell u10->c34->l5(-1,-6)->u1->c4
+   Total Material
+     heating                              60989.4 +/- 1053.26
+ Distributed Cell u10->c34->l5(0,-6)->u1->c4
+   Total Material
+     heating                              63874.9 +/- 1075.12
+ Distributed Cell u10->c34->l5(1,-6)->u1->c4
+   Total Material
+     heating                              61848 +/- 1067.88
+ Distributed Cell u10->c34->l5(2,-6)->u1->c4
+   Total Material
+     heating                              64092.3 +/- 1273.04
+ Distributed Cell u10->c34->l5(3,-6)->u1->c4
+   Total Material
+     heating                              63484.5 +/- 1013.55
+ Distributed Cell u10->c34->l5(4,-6)->u1->c4
+   Total Material
+     heating                              64238 +/- 1076.91
+ Distributed Cell u10->c34->l5(5,-6)->u1->c4
+   Total Material
+     heating                              63998 +/- 1083.51
+ Distributed Cell u10->c34->l5(6,-6)->u1->c4
+   Total Material
+     heating                              63076.2 +/- 1161.23
+ Distributed Cell u10->c34->l5(7,-6)->u1->c4
+   Total Material
+     heating                              62091.3 +/- 1151.71
+ Distributed Cell u10->c34->l5(8,-6)->u1->c4
+   Total Material
+     heating                              63074.7 +/- 1212.21
+ Distributed Cell u10->c34->l5(9,-6)->u1->c4
+   Total Material
+     heating                              60989.3 +/- 1068.85
+ Distributed Cell u10->c34->l5(10,-6)->u1->c4
+   Total Material
+     heating                              59506.5 +/- 1028.98
+ Distributed Cell u10->c34->l5(11,-6)->u1->c4
+   Total Material
+     heating                              57926.2 +/- 929.978
+ Distributed Cell u10->c34->l5(12,-6)->u1->c4
+   Total Material
+     heating                              57230.3 +/- 1112.18
+ Distributed Cell u10->c34->l5(13,-6)->u1->c4
+   Total Material
+     heating                              53981.7 +/- 999.786
+ Distributed Cell u10->c34->l5(14,-6)->u1->c4
+   Total Material
+     heating                              53375.5 +/- 1226.6
+ Distributed Cell u10->c34->l5(15,-6)->u1->c4
+   Total Material
+     heating                              51187.6 +/- 1032.9
+ Distributed Cell u10->c34->l5(16,-6)->u1->c4
+   Total Material
+     heating                              50129.6 +/- 1146.89
+ Distributed Cell u10->c34->l5(17,-6)->u1->c4
+   Total Material
+     heating                              48056.5 +/- 948.728
+ Distributed Cell u10->c34->l5(18,-6)->u1->c4
+   Total Material
+     heating                              49812 +/- 1091.07
+ Distributed Cell u10->c34->l5(19,-6)->u1->c4
+   Total Material
+     heating                              51926.4 +/- 1230.15
+ Distributed Cell u10->c34->l5(20,-6)->u1->c4
+   Total Material
+     heating                              62972.7 +/- 1620.82
+ Distributed Cell u10->c34->l5(21,-6)->u1->c4
+   Total Material
+     heating                              146062 +/- 3731.11
+ Distributed Cell u10->c34->l5(-15,-5)->u1->c4
+   Total Material
+     heating                              86244.5 +/- 2509.66
+ Distributed Cell u10->c34->l5(-14,-5)->u1->c4
+   Total Material
+     heating                              53597.4 +/- 1426.12
+ Distributed Cell u10->c34->l5(-13,-5)->u1->c4
+   Total Material
+     heating                              46579.1 +/- 951.392
+ Distributed Cell u10->c34->l5(-12,-5)->u1->c4
+   Total Material
+     heating                              47040.5 +/- 936.67
+ Distributed Cell u10->c34->l5(-11,-5)->u1->c4
+   Total Material
+     heating                              49387.5 +/- 972.397
+ Distributed Cell u10->c34->l5(-10,-5)->u1->c4
+   Total Material
+     heating                              50266.8 +/- 1028.75
+ Distributed Cell u10->c34->l5(-9,-5)->u1->c4
+   Total Material
+     heating                              54388.2 +/- 999.026
+ Distributed Cell u10->c34->l5(-8,-5)->u1->c4
+   Total Material
+     heating                              54592.5 +/- 959.604
+ Distributed Cell u10->c34->l5(-7,-5)->u1->c4
+   Total Material
+     heating                              56988.1 +/- 1054.08
+ Distributed Cell u10->c34->l5(-6,-5)->u1->c4
+   Total Material
+     heating                              59174.7 +/- 1056.94
+ Distributed Cell u10->c34->l5(-5,-5)->u1->c4
+   Total Material
+     heating                              61365.8 +/- 1171.67
+ Distributed Cell u10->c34->l5(-4,-5)->u1->c4
+   Total Material
+     heating                              63146.2 +/- 1207.15
+ Distributed Cell u10->c34->l5(-3,-5)->u1->c4
+   Total Material
+     heating                              62801.2 +/- 1102.83
+ Distributed Cell u10->c34->l5(-2,-5)->u1->c4
+   Total Material
+     heating                              63198.4 +/- 1213.15
+ Distributed Cell u10->c34->l5(-1,-5)->u1->c4
+   Total Material
+     heating                              64390.2 +/- 1056.99
+ Distributed Cell u10->c34->l5(0,-5)->u1->c4
+   Total Material
+     heating                              62115.9 +/- 1115.28
+ Distributed Cell u10->c34->l5(1,-5)->u1->c4
+   Total Material
+     heating                              62885 +/- 1002.39
+ Distributed Cell u10->c34->l5(2,-5)->u1->c4
+   Total Material
+     heating                              64244.7 +/- 943.345
+ Distributed Cell u10->c34->l5(3,-5)->u1->c4
+   Total Material
+     heating                              64386.9 +/- 1193.62
+ Distributed Cell u10->c34->l5(4,-5)->u1->c4
+   Total Material
+     heating                              65848.7 +/- 1168.68
+ Distributed Cell u10->c34->l5(5,-5)->u1->c4
+   Total Material
+     heating                              63722.7 +/- 1129.53
+ Distributed Cell u10->c34->l5(6,-5)->u1->c4
+   Total Material
+     heating                              63244.5 +/- 1031.78
+ Distributed Cell u10->c34->l5(7,-5)->u1->c4
+   Total Material
+     heating                              67193.5 +/- 1331.84
+ Distributed Cell u10->c34->l5(8,-5)->u1->c4
+   Total Material
+     heating                              62501.1 +/- 1156.44
+ Distributed Cell u10->c34->l5(9,-5)->u1->c4
+   Total Material
+     heating                              62186.7 +/- 1098.27
+ Distributed Cell u10->c34->l5(10,-5)->u1->c4
+   Total Material
+     heating                              60894.1 +/- 1165.27
+ Distributed Cell u10->c34->l5(11,-5)->u1->c4
+   Total Material
+     heating                              60389.7 +/- 1244.9
+ Distributed Cell u10->c34->l5(12,-5)->u1->c4
+   Total Material
+     heating                              58451.5 +/- 1124.17
+ Distributed Cell u10->c34->l5(13,-5)->u1->c4
+   Total Material
+     heating                              54449.5 +/- 1034.21
+ Distributed Cell u10->c34->l5(14,-5)->u1->c4
+   Total Material
+     heating                              52230.8 +/- 946.971
+ Distributed Cell u10->c34->l5(15,-5)->u1->c4
+   Total Material
+     heating                              49862.9 +/- 995.499
+ Distributed Cell u10->c34->l5(16,-5)->u1->c4
+   Total Material
+     heating                              47706.2 +/- 973.689
+ Distributed Cell u10->c34->l5(17,-5)->u1->c4
+   Total Material
+     heating                              47229.8 +/- 917.133
+ Distributed Cell u10->c34->l5(18,-5)->u1->c4
+   Total Material
+     heating                              49961.2 +/- 1086.66
+ Distributed Cell u10->c34->l5(19,-5)->u1->c4
+   Total Material
+     heating                              53348.6 +/- 1243.68
+ Distributed Cell u10->c34->l5(20,-5)->u1->c4
+   Total Material
+     heating                              87559.5 +/- 2396.65
+ Distributed Cell u10->c34->l5(-16,-4)->u1->c4
+   Total Material
+     heating                              124450 +/- 3498.1
+ Distributed Cell u10->c34->l5(-15,-4)->u1->c4
+   Total Material
+     heating                              61124.4 +/- 1624.07
+ Distributed Cell u10->c34->l5(-14,-4)->u1->c4
+   Total Material
+     heating                              47568.4 +/- 991.527
+ Distributed Cell u10->c34->l5(-13,-4)->u1->c4
+   Total Material
+     heating                              48585.7 +/- 995.684
+ Distributed Cell u10->c34->l5(-12,-4)->u1->c4
+   Total Material
+     heating                              48486.9 +/- 800.223
+ Distributed Cell u10->c34->l5(-11,-4)->u1->c4
+   Total Material
+     heating                              50209.4 +/- 1204.98
+ Distributed Cell u10->c34->l5(-10,-4)->u1->c4
+   Total Material
+     heating                              52959.9 +/- 1062.84
+ Distributed Cell u10->c34->l5(-9,-4)->u1->c4
+   Total Material
+     heating                              54905.9 +/- 976.431
+ Distributed Cell u10->c34->l5(-8,-4)->u1->c4
+   Total Material
+     heating                              57203.4 +/- 1133.24
+ Distributed Cell u10->c34->l5(-7,-4)->u1->c4
+   Total Material
+     heating                              57938.8 +/- 1072.8
+ Distributed Cell u10->c34->l5(-6,-4)->u1->c4
+   Total Material
+     heating                              59356.2 +/- 1064.57
+ Distributed Cell u10->c34->l5(-5,-4)->u1->c4
+   Total Material
+     heating                              60001 +/- 988.049
+ Distributed Cell u10->c34->l5(-4,-4)->u1->c4
+   Total Material
+     heating                              60637 +/- 936.694
+ Distributed Cell u10->c34->l5(-3,-4)->u1->c4
+   Total Material
+     heating                              62419.8 +/- 1128.23
+ Distributed Cell u10->c34->l5(-2,-4)->u1->c4
+   Total Material
+     heating                              64082.3 +/- 1176.19
+ Distributed Cell u10->c34->l5(-1,-4)->u1->c4
+   Total Material
+     heating                              62736.2 +/- 1161.96
+ Distributed Cell u10->c34->l5(0,-4)->u1->c4
+   Total Material
+     heating                              63473.4 +/- 1110.95
+ Distributed Cell u10->c34->l5(1,-4)->u1->c4
+   Total Material
+     heating                              64135.8 +/- 988.988
+ Distributed Cell u10->c34->l5(2,-4)->u1->c4
+   Total Material
+     heating                              66211.2 +/- 1112.81
+ Distributed Cell u10->c34->l5(3,-4)->u1->c4
+   Total Material
+     heating                              64962.3 +/- 1050.27
+ Distributed Cell u10->c34->l5(4,-4)->u1->c4
+   Total Material
+     heating                              64378.9 +/- 1107.73
+ Distributed Cell u10->c34->l5(5,-4)->u1->c4
+   Total Material
+     heating                              65088.2 +/- 1162.7
+ Distributed Cell u10->c34->l5(6,-4)->u1->c4
+   Total Material
+     heating                              65953.3 +/- 1002.39
+ Distributed Cell u10->c34->l5(7,-4)->u1->c4
+   Total Material
+     heating                              63064.7 +/- 1201.71
+ Distributed Cell u10->c34->l5(8,-4)->u1->c4
+   Total Material
+     heating                              64109 +/- 1140.58
+ Distributed Cell u10->c34->l5(9,-4)->u1->c4
+   Total Material
+     heating                              61024.3 +/- 1152.35
+ Distributed Cell u10->c34->l5(10,-4)->u1->c4
+   Total Material
+     heating                              60433 +/- 1142.33
+ Distributed Cell u10->c34->l5(11,-4)->u1->c4
+   Total Material
+     heating                              59218.2 +/- 1229.72
+ Distributed Cell u10->c34->l5(12,-4)->u1->c4
+   Total Material
+     heating                              55939.9 +/- 937.022
+ Distributed Cell u10->c34->l5(13,-4)->u1->c4
+   Total Material
+     heating                              53365.8 +/- 990.168
+ Distributed Cell u10->c34->l5(14,-4)->u1->c4
+   Total Material
+     heating                              51529.8 +/- 1039.85
+ Distributed Cell u10->c34->l5(15,-4)->u1->c4
+   Total Material
+     heating                              48820.8 +/- 989.876
+ Distributed Cell u10->c34->l5(16,-4)->u1->c4
+   Total Material
+     heating                              49473 +/- 1069.2
+ Distributed Cell u10->c34->l5(17,-4)->u1->c4
+   Total Material
+     heating                              49724 +/- 1020.49
+ Distributed Cell u10->c34->l5(18,-4)->u1->c4
+   Total Material
+     heating                              51593.4 +/- 1154
+ Distributed Cell u10->c34->l5(19,-4)->u1->c4
+   Total Material
+     heating                              58658.4 +/- 1493.5
+ Distributed Cell u10->c34->l5(20,-4)->u1->c4
+   Total Material
+     heating                              130427 +/- 3492.56
+ Distributed Cell u10->c34->l5(-16,-3)->u1->c4
+   Total Material
+     heating                              79618.4 +/- 2582.31
+ Distributed Cell u10->c34->l5(-15,-3)->u1->c4
+   Total Material
+     heating                              52183.4 +/- 1245.03
+ Distributed Cell u10->c34->l5(-14,-3)->u1->c4
+   Total Material
+     heating                              48226.4 +/- 1208.83
+ Distributed Cell u10->c34->l5(-13,-3)->u1->c4
+   Total Material
+     heating                              48698.3 +/- 937.35
+ Distributed Cell u10->c34->l5(-12,-3)->u1->c4
+   Total Material
+     heating                              49415.8 +/- 1045.13
+ Distributed Cell u10->c34->l5(-11,-3)->u1->c4
+   Total Material
+     heating                              51348.5 +/- 1044.81
+ Distributed Cell u10->c34->l5(-10,-3)->u1->c4
+   Total Material
+     heating                              54924.9 +/- 967.823
+ Distributed Cell u10->c34->l5(-9,-3)->u1->c4
+   Total Material
+     heating                              57420.9 +/- 1114.97
+ Distributed Cell u10->c34->l5(-8,-3)->u1->c4
+   Total Material
+     heating                              57061.6 +/- 1004.59
+ Distributed Cell u10->c34->l5(-7,-3)->u1->c4
+   Total Material
+     heating                              58344.2 +/- 1029.87
+ Distributed Cell u10->c34->l5(-6,-3)->u1->c4
+   Total Material
+     heating                              59518.4 +/- 1057.63
+ Distributed Cell u10->c34->l5(-5,-3)->u1->c4
+   Total Material
+     heating                              62706.9 +/- 1086.07
+ Distributed Cell u10->c34->l5(-4,-3)->u1->c4
+   Total Material
+     heating                              64649.3 +/- 1125.93
+ Distributed Cell u10->c34->l5(-3,-3)->u1->c4
+   Total Material
+     heating                              63061.8 +/- 1011.4
+ Distributed Cell u10->c34->l5(-2,-3)->u1->c4
+   Total Material
+     heating                              63979.9 +/- 1121.33
+ Distributed Cell u10->c34->l5(-1,-3)->u1->c4
+   Total Material
+     heating                              63896.9 +/- 1056.3
+ Distributed Cell u10->c34->l5(0,-3)->u1->c4
+   Total Material
+     heating                              65311.6 +/- 1117.46
+ Distributed Cell u10->c34->l5(1,-3)->u1->c4
+   Total Material
+     heating                              66774.3 +/- 1214.13
+ Distributed Cell u10->c34->l5(2,-3)->u1->c4
+   Total Material
+     heating                              67254 +/- 1270.27
+ Distributed Cell u10->c34->l5(3,-3)->u1->c4
+   Total Material
+     heating                              68805.6 +/- 1211.01
+ Distributed Cell u10->c34->l5(4,-3)->u1->c4
+   Total Material
+     heating                              66423 +/- 1037.4
+ Distributed Cell u10->c34->l5(5,-3)->u1->c4
+   Total Material
+     heating                              65287.7 +/- 1121.78
+ Distributed Cell u10->c34->l5(6,-3)->u1->c4
+   Total Material
+     heating                              64629.6 +/- 1183.11
+ Distributed Cell u10->c34->l5(7,-3)->u1->c4
+   Total Material
+     heating                              63018 +/- 1104.48
+ Distributed Cell u10->c34->l5(8,-3)->u1->c4
+   Total Material
+     heating                              62834.7 +/- 1058.23
+ Distributed Cell u10->c34->l5(9,-3)->u1->c4
+   Total Material
+     heating                              59280.1 +/- 942.313
+ Distributed Cell u10->c34->l5(10,-3)->u1->c4
+   Total Material
+     heating                              59146.8 +/- 1048.56
+ Distributed Cell u10->c34->l5(11,-3)->u1->c4
+   Total Material
+     heating                              60234.7 +/- 1209.44
+ Distributed Cell u10->c34->l5(12,-3)->u1->c4
+   Total Material
+     heating                              58253.5 +/- 1009.63
+ Distributed Cell u10->c34->l5(13,-3)->u1->c4
+   Total Material
+     heating                              53232.7 +/- 943.6
+ Distributed Cell u10->c34->l5(14,-3)->u1->c4
+   Total Material
+     heating                              51330.4 +/- 809.157
+ Distributed Cell u10->c34->l5(15,-3)->u1->c4
+   Total Material
+     heating                              49038 +/- 1163.14
+ Distributed Cell u10->c34->l5(16,-3)->u1->c4
+   Total Material
+     heating                              49045.5 +/- 1039.03
+ Distributed Cell u10->c34->l5(17,-3)->u1->c4
+   Total Material
+     heating                              49718.9 +/- 1471.4
+ Distributed Cell u10->c34->l5(18,-3)->u1->c4
+   Total Material
+     heating                              51464.4 +/- 1070.34
+ Distributed Cell u10->c34->l5(19,-3)->u1->c4
+   Total Material
+     heating                              80622.1 +/- 2178.75
+ Distributed Cell u10->c34->l5(-17,-2)->u1->c4
+   Total Material
+     heating                              108886 +/- 3119.75
+ Distributed Cell u10->c34->l5(-16,-2)->u1->c4
+   Total Material
+     heating                              55883.6 +/- 1322.43
+ Distributed Cell u10->c34->l5(-15,-2)->u1->c4
+   Total Material
+     heating                              48989.7 +/- 1107.86
+ Distributed Cell u10->c34->l5(-14,-2)->u1->c4
+   Total Material
+     heating                              49484 +/- 1096.14
+ Distributed Cell u10->c34->l5(-13,-2)->u1->c4
+   Total Material
+     heating                              49591.1 +/- 933.025
+ Distributed Cell u10->c34->l5(-12,-2)->u1->c4
+   Total Material
+     heating                              50782.6 +/- 891.535
+ Distributed Cell u10->c34->l5(-11,-2)->u1->c4
+   Total Material
+     heating                              54306.3 +/- 1055.7
+ Distributed Cell u10->c34->l5(-10,-2)->u1->c4
+   Total Material
+     heating                              56228.2 +/- 1138.14
+ Distributed Cell u10->c34->l5(-9,-2)->u1->c4
+   Total Material
+     heating                              56536.2 +/- 990.853
+ Distributed Cell u10->c34->l5(-8,-2)->u1->c4
+   Total Material
+     heating                              58148.4 +/- 990.32
+ Distributed Cell u10->c34->l5(-7,-2)->u1->c4
+   Total Material
+     heating                              59205 +/- 1000.87
+ Distributed Cell u10->c34->l5(-6,-2)->u1->c4
+   Total Material
+     heating                              62631.8 +/- 1214.54
+ Distributed Cell u10->c34->l5(-5,-2)->u1->c4
+   Total Material
+     heating                              64226.9 +/- 1115.6
+ Distributed Cell u10->c34->l5(-4,-2)->u1->c4
+   Total Material
+     heating                              62722.2 +/- 1107.48
+ Distributed Cell u10->c34->l5(-3,-2)->u1->c4
+   Total Material
+     heating                              63818.1 +/- 981.583
+ Distributed Cell u10->c34->l5(-2,-2)->u1->c4
+   Total Material
+     heating                              66343.6 +/- 1168.2
+ Distributed Cell u10->c34->l5(-1,-2)->u1->c4
+   Total Material
+     heating                              64956.1 +/- 1214.54
+ Distributed Cell u10->c34->l5(0,-2)->u1->c4
+   Total Material
+     heating                              66852.6 +/- 1134.69
+ Distributed Cell u10->c34->l5(1,-2)->u1->c4
+   Total Material
+     heating                              66450.7 +/- 1156.75
+ Distributed Cell u10->c34->l5(2,-2)->u1->c4
+   Total Material
+     heating                              67166.4 +/- 1371.36
+ Distributed Cell u10->c34->l5(3,-2)->u1->c4
+   Total Material
+     heating                              66073 +/- 1280.32
+ Distributed Cell u10->c34->l5(4,-2)->u1->c4
+   Total Material
+     heating                              64859.2 +/- 954.86
+ Distributed Cell u10->c34->l5(5,-2)->u1->c4
+   Total Material
+     heating                              66827.5 +/- 1390.29
+ Distributed Cell u10->c34->l5(6,-2)->u1->c4
+   Total Material
+     heating                              65871.3 +/- 1285.88
+ Distributed Cell u10->c34->l5(7,-2)->u1->c4
+   Total Material
+     heating                              63816.5 +/- 1067.14
+ Distributed Cell u10->c34->l5(8,-2)->u1->c4
+   Total Material
+     heating                              61912.1 +/- 1321.51
+ Distributed Cell u10->c34->l5(9,-2)->u1->c4
+   Total Material
+     heating                              60942.3 +/- 1095.8
+ Distributed Cell u10->c34->l5(10,-2)->u1->c4
+   Total Material
+     heating                              58890.6 +/- 1023.81
+ Distributed Cell u10->c34->l5(11,-2)->u1->c4
+   Total Material
+     heating                              58207 +/- 1081.31
+ Distributed Cell u10->c34->l5(12,-2)->u1->c4
+   Total Material
+     heating                              55732.5 +/- 1002.73
+ Distributed Cell u10->c34->l5(13,-2)->u1->c4
+   Total Material
+     heating                              53634 +/- 1131.67
+ Distributed Cell u10->c34->l5(14,-2)->u1->c4
+   Total Material
+     heating                              50810.9 +/- 1023.32
+ Distributed Cell u10->c34->l5(15,-2)->u1->c4
+   Total Material
+     heating                              48245.6 +/- 1013.94
+ Distributed Cell u10->c34->l5(16,-2)->u1->c4
+   Total Material
+     heating                              48837 +/- 1170.53
+ Distributed Cell u10->c34->l5(17,-2)->u1->c4
+   Total Material
+     heating                              50320.7 +/- 1132.84
+ Distributed Cell u10->c34->l5(18,-2)->u1->c4
+   Total Material
+     heating                              54056.7 +/- 1353.21
+ Distributed Cell u10->c34->l5(19,-2)->u1->c4
+   Total Material
+     heating                              109928 +/- 2800.03
+ Distributed Cell u10->c34->l5(-18,-1)->u1->c4
+   Total Material
+     heating                              144347 +/- 3906.79
+ Distributed Cell u10->c34->l5(-17,-1)->u1->c4
+   Total Material
+     heating                              59364.5 +/- 1554.56
+ Distributed Cell u10->c34->l5(-16,-1)->u1->c4
+   Total Material
+     heating                              50119.7 +/- 1136.52
+ Distributed Cell u10->c34->l5(-15,-1)->u1->c4
+   Total Material
+     heating                              46989.3 +/- 1059.51
+ Distributed Cell u10->c34->l5(-14,-1)->u1->c4
+   Total Material
+     heating                              47314.7 +/- 902.146
+ Distributed Cell u10->c34->l5(-13,-1)->u1->c4
+   Total Material
+     heating                              49513.2 +/- 933.067
+ Distributed Cell u10->c34->l5(-12,-1)->u1->c4
+   Total Material
+     heating                              52518.4 +/- 969.927
+ Distributed Cell u10->c34->l5(-11,-1)->u1->c4
+   Total Material
+     heating                              53876 +/- 966.636
+ Distributed Cell u10->c34->l5(-10,-1)->u1->c4
+   Total Material
+     heating                              57330.4 +/- 1050.12
+ Distributed Cell u10->c34->l5(-9,-1)->u1->c4
+   Total Material
+     heating                              58270.9 +/- 1015.08
+ Distributed Cell u10->c34->l5(-8,-1)->u1->c4
+   Total Material
+     heating                              59670.1 +/- 988.065
+ Distributed Cell u10->c34->l5(-7,-1)->u1->c4
+   Total Material
+     heating                              61687.5 +/- 901.596
+ Distributed Cell u10->c34->l5(-6,-1)->u1->c4
+   Total Material
+     heating                              61383.6 +/- 1070.62
+ Distributed Cell u10->c34->l5(-5,-1)->u1->c4
+   Total Material
+     heating                              64282.4 +/- 1107.86
+ Distributed Cell u10->c34->l5(-4,-1)->u1->c4
+   Total Material
+     heating                              65624.6 +/- 1283.13
+ Distributed Cell u10->c34->l5(-3,-1)->u1->c4
+   Total Material
+     heating                              65343.4 +/- 1154.12
+ Distributed Cell u10->c34->l5(-2,-1)->u1->c4
+   Total Material
+     heating                              64885.8 +/- 1068.44
+ Distributed Cell u10->c34->l5(-1,-1)->u1->c4
+   Total Material
+     heating                              66394.8 +/- 1103.31
+ Distributed Cell u10->c34->l5(0,-1)->u1->c4
+   Total Material
+     heating                              69667.3 +/- 1160.18
+ Distributed Cell u10->c34->l5(1,-1)->u1->c4
+   Total Material
+     heating                              69234 +/- 1256.21
+ Distributed Cell u10->c34->l5(2,-1)->u1->c4
+   Total Material
+     heating                              68246.3 +/- 1258.71
+ Distributed Cell u10->c34->l5(3,-1)->u1->c4
+   Total Material
+     heating                              68864.9 +/- 1162.75
+ Distributed Cell u10->c34->l5(4,-1)->u1->c4
+   Total Material
+     heating                              65854.4 +/- 1046.08
+ Distributed Cell u10->c34->l5(5,-1)->u1->c4
+   Total Material
+     heating                              63884.9 +/- 1007.13
+ Distributed Cell u10->c34->l5(6,-1)->u1->c4
+   Total Material
+     heating                              66206.9 +/- 1116.4
+ Distributed Cell u10->c34->l5(7,-1)->u1->c4
+   Total Material
+     heating                              62601.7 +/- 1157.23
+ Distributed Cell u10->c34->l5(8,-1)->u1->c4
+   Total Material
+     heating                              61183.7 +/- 1104.58
+ Distributed Cell u10->c34->l5(9,-1)->u1->c4
+   Total Material
+     heating                              60877.6 +/- 1214.82
+ Distributed Cell u10->c34->l5(10,-1)->u1->c4
+   Total Material
+     heating                              60787.4 +/- 1032.12
+ Distributed Cell u10->c34->l5(11,-1)->u1->c4
+   Total Material
+     heating                              57874.1 +/- 947.092
+ Distributed Cell u10->c34->l5(12,-1)->u1->c4
+   Total Material
+     heating                              55271.8 +/- 1115.89
+ Distributed Cell u10->c34->l5(13,-1)->u1->c4
+   Total Material
+     heating                              53531.9 +/- 1180.5
+ Distributed Cell u10->c34->l5(14,-1)->u1->c4
+   Total Material
+     heating                              50317.5 +/- 916.979
+ Distributed Cell u10->c34->l5(15,-1)->u1->c4
+   Total Material
+     heating                              47360.6 +/- 883.324
+ Distributed Cell u10->c34->l5(16,-1)->u1->c4
+   Total Material
+     heating                              48289.3 +/- 1071.86
+ Distributed Cell u10->c34->l5(17,-1)->u1->c4
+   Total Material
+     heating                              52232.7 +/- 1115.79
+ Distributed Cell u10->c34->l5(18,-1)->u1->c4
+   Total Material
+     heating                              60247.3 +/- 1431.29
+ Distributed Cell u10->c34->l5(19,-1)->u1->c4
+   Total Material
+     heating                              158586 +/- 4414.82
+ Distributed Cell u10->c34->l5(-18,0)->u1->c4
+   Total Material
+     heating                              86073.9 +/- 2634.55
+ Distributed Cell u10->c34->l5(-17,0)->u1->c4
+   Total Material
+     heating                              50503.9 +/- 1152.78
+ Distributed Cell u10->c34->l5(-16,0)->u1->c4
+   Total Material
+     heating                              48077.5 +/- 1347.62
+ Distributed Cell u10->c34->l5(-15,0)->u1->c4
+   Total Material
+     heating                              47099.1 +/- 1034.83
+ Distributed Cell u10->c34->l5(-14,0)->u1->c4
+   Total Material
+     heating                              49335.3 +/- 945.388
+ Distributed Cell u10->c34->l5(-13,0)->u1->c4
+   Total Material
+     heating                              50750.8 +/- 1033.13
+ Distributed Cell u10->c34->l5(-12,0)->u1->c4
+   Total Material
+     heating                              53563.9 +/- 1088.01
+ Distributed Cell u10->c34->l5(-11,0)->u1->c4
+   Total Material
+     heating                              54046 +/- 964.064
+ Distributed Cell u10->c34->l5(-10,0)->u1->c4
+   Total Material
+     heating                              56523.8 +/- 905.492
+ Distributed Cell u10->c34->l5(-9,0)->u1->c4
+   Total Material
+     heating                              58880.2 +/- 802.785
+ Distributed Cell u10->c34->l5(-8,0)->u1->c4
+   Total Material
+     heating                              60387.8 +/- 1127.04
+ Distributed Cell u10->c34->l5(-7,0)->u1->c4
+   Total Material
+     heating                              63031.5 +/- 1208.49
+ Distributed Cell u10->c34->l5(-6,0)->u1->c4
+   Total Material
+     heating                              63366.6 +/- 990.841
+ Distributed Cell u10->c34->l5(-5,0)->u1->c4
+   Total Material
+     heating                              63907.1 +/- 1049.09
+ Distributed Cell u10->c34->l5(-4,0)->u1->c4
+   Total Material
+     heating                              63678.6 +/- 1184.85
+ Distributed Cell u10->c34->l5(-3,0)->u1->c4
+   Total Material
+     heating                              64438.2 +/- 1273.9
+ Distributed Cell u10->c34->l5(-2,0)->u1->c4
+   Total Material
+     heating                              67885.1 +/- 1301.85
+ Distributed Cell u10->c34->l5(-1,0)->u1->c4
+   Total Material
+     heating                              68342.4 +/- 1219.56
+ Distributed Cell u10->c34->l5(0,0)->u1->c4
+   Total Material
+     heating                              67886.4 +/- 1151.79
+ Distributed Cell u10->c34->l5(1,0)->u1->c4
+   Total Material
+     heating                              65930.4 +/- 1112.73
+ Distributed Cell u10->c34->l5(2,0)->u1->c4
+   Total Material
+     heating                              67693 +/- 1290.99
+ Distributed Cell u10->c34->l5(3,0)->u1->c4
+   Total Material
+     heating                              68262.5 +/- 1192.31
+ Distributed Cell u10->c34->l5(4,0)->u1->c4
+   Total Material
+     heating                              65293.7 +/- 1121.99
+ Distributed Cell u10->c34->l5(5,0)->u1->c4
+   Total Material
+     heating                              63928.4 +/- 1157.35
+ Distributed Cell u10->c34->l5(6,0)->u1->c4
+   Total Material
+     heating                              64659.6 +/- 1122.48
+ Distributed Cell u10->c34->l5(7,0)->u1->c4
+   Total Material
+     heating                              60095.5 +/- 949.433
+ Distributed Cell u10->c34->l5(8,0)->u1->c4
+   Total Material
+     heating                              59844.1 +/- 1111.94
+ Distributed Cell u10->c34->l5(9,0)->u1->c4
+   Total Material
+     heating                              57018.1 +/- 833.999
+ Distributed Cell u10->c34->l5(10,0)->u1->c4
+   Total Material
+     heating                              56636.9 +/- 1074.22
+ Distributed Cell u10->c34->l5(11,0)->u1->c4
+   Total Material
+     heating                              57491.3 +/- 1055.41
+ Distributed Cell u10->c34->l5(12,0)->u1->c4
+   Total Material
+     heating                              54120.8 +/- 1022.28
+ Distributed Cell u10->c34->l5(13,0)->u1->c4
+   Total Material
+     heating                              50035.3 +/- 974.641
+ Distributed Cell u10->c34->l5(14,0)->u1->c4
+   Total Material
+     heating                              49254.9 +/- 948.338
+ Distributed Cell u10->c34->l5(15,0)->u1->c4
+   Total Material
+     heating                              49970.2 +/- 998.385
+ Distributed Cell u10->c34->l5(16,0)->u1->c4
+   Total Material
+     heating                              48059.4 +/- 1011.26
+ Distributed Cell u10->c34->l5(17,0)->u1->c4
+   Total Material
+     heating                              56947.6 +/- 1348.52
+ Distributed Cell u10->c34->l5(18,0)->u1->c4
+   Total Material
+     heating                              94678.3 +/- 2858.56
+ Distributed Cell u10->c34->l5(-19,1)->u1->c4
+   Total Material
+     heating                              147839 +/- 3599.05
+ Distributed Cell u10->c34->l5(-18,1)->u1->c4
+   Total Material
+     heating                              57351.3 +/- 1561.89
+ Distributed Cell u10->c34->l5(-17,1)->u1->c4
+   Total Material
+     heating                              48284.2 +/- 1101.02
+ Distributed Cell u10->c34->l5(-16,1)->u1->c4
+   Total Material
+     heating                              47203.6 +/- 883.333
+ Distributed Cell u10->c34->l5(-15,1)->u1->c4
+   Total Material
+     heating                              47677.2 +/- 899.321
+ Distributed Cell u10->c34->l5(-14,1)->u1->c4
+   Total Material
+     heating                              51722.4 +/- 1092.77
+ Distributed Cell u10->c34->l5(-13,1)->u1->c4
+   Total Material
+     heating                              52571.3 +/- 1303.38
+ Distributed Cell u10->c34->l5(-12,1)->u1->c4
+   Total Material
+     heating                              55502.9 +/- 1071.3
+ Distributed Cell u10->c34->l5(-11,1)->u1->c4
+   Total Material
+     heating                              55699.5 +/- 1130.63
+ Distributed Cell u10->c34->l5(-10,1)->u1->c4
+   Total Material
+     heating                              58061 +/- 1002.75
+ Distributed Cell u10->c34->l5(-9,1)->u1->c4
+   Total Material
+     heating                              60810.7 +/- 1096.96
+ Distributed Cell u10->c34->l5(-8,1)->u1->c4
+   Total Material
+     heating                              62660.1 +/- 1092.14
+ Distributed Cell u10->c34->l5(-7,1)->u1->c4
+   Total Material
+     heating                              64250.6 +/- 1160.46
+ Distributed Cell u10->c34->l5(-6,1)->u1->c4
+   Total Material
+     heating                              63300.7 +/- 958.553
+ Distributed Cell u10->c34->l5(-5,1)->u1->c4
+   Total Material
+     heating                              63337.8 +/- 1092.21
+ Distributed Cell u10->c34->l5(-4,1)->u1->c4
+   Total Material
+     heating                              65987.7 +/- 1184.18
+ Distributed Cell u10->c34->l5(-3,1)->u1->c4
+   Total Material
+     heating                              66071 +/- 1115.5
+ Distributed Cell u10->c34->l5(-2,1)->u1->c4
+   Total Material
+     heating                              66482.4 +/- 1197.26
+ Distributed Cell u10->c34->l5(-1,1)->u1->c4
+   Total Material
+     heating                              64365.1 +/- 1123.75
+ Distributed Cell u10->c34->l5(0,1)->u1->c4
+   Total Material
+     heating                              66344.6 +/- 1187.82
+ Distributed Cell u10->c34->l5(1,1)->u1->c4
+   Total Material
+     heating                              64149.6 +/- 1027.47
+ Distributed Cell u10->c34->l5(2,1)->u1->c4
+   Total Material
+     heating                              67193.3 +/- 1210.46
+ Distributed Cell u10->c34->l5(3,1)->u1->c4
+   Total Material
+     heating                              65180.2 +/- 1096.27
+ Distributed Cell u10->c34->l5(4,1)->u1->c4
+   Total Material
+     heating                              65602.1 +/- 1031.16
+ Distributed Cell u10->c34->l5(5,1)->u1->c4
+   Total Material
+     heating                              63320.4 +/- 1127.63
+ Distributed Cell u10->c34->l5(6,1)->u1->c4
+   Total Material
+     heating                              63487.3 +/- 1225.14
+ Distributed Cell u10->c34->l5(7,1)->u1->c4
+   Total Material
+     heating                              61118.1 +/- 983.999
+ Distributed Cell u10->c34->l5(8,1)->u1->c4
+   Total Material
+     heating                              58916.7 +/- 1107.31
+ Distributed Cell u10->c34->l5(9,1)->u1->c4
+   Total Material
+     heating                              57964.4 +/- 1048.03
+ Distributed Cell u10->c34->l5(10,1)->u1->c4
+   Total Material
+     heating                              58355.1 +/- 1239.06
+ Distributed Cell u10->c34->l5(11,1)->u1->c4
+   Total Material
+     heating                              55125.9 +/- 1047.86
+ Distributed Cell u10->c34->l5(12,1)->u1->c4
+   Total Material
+     heating                              52771.5 +/- 1045.76
+ Distributed Cell u10->c34->l5(13,1)->u1->c4
+   Total Material
+     heating                              50653.6 +/- 954.929
+ Distributed Cell u10->c34->l5(14,1)->u1->c4
+   Total Material
+     heating                              49131.8 +/- 868.713
+ Distributed Cell u10->c34->l5(15,1)->u1->c4
+   Total Material
+     heating                              50191.4 +/- 924.777
+ Distributed Cell u10->c34->l5(16,1)->u1->c4
+   Total Material
+     heating                              50607.3 +/- 1227.78
+ Distributed Cell u10->c34->l5(17,1)->u1->c4
+   Total Material
+     heating                              62710.5 +/- 1694.84
+ Distributed Cell u10->c34->l5(18,1)->u1->c4
+   Total Material
+     heating                              146690 +/- 3491.83
+ Distributed Cell u10->c34->l5(-19,2)->u1->c4
+   Total Material
+     heating                              108457 +/- 3081.48
+ Distributed Cell u10->c34->l5(-18,2)->u1->c4
+   Total Material
+     heating                              54559.7 +/- 1230.87
+ Distributed Cell u10->c34->l5(-17,2)->u1->c4
+   Total Material
+     heating                              47649.8 +/- 978.239
+ Distributed Cell u10->c34->l5(-16,2)->u1->c4
+   Total Material
+     heating                              46693 +/- 938.676
+ Distributed Cell u10->c34->l5(-15,2)->u1->c4
+   Total Material
+     heating                              50304.8 +/- 990.42
+ Distributed Cell u10->c34->l5(-14,2)->u1->c4
+   Total Material
+     heating                              51306.9 +/- 1175.3
+ Distributed Cell u10->c34->l5(-13,2)->u1->c4
+   Total Material
+     heating                              52154.5 +/- 985.687
+ Distributed Cell u10->c34->l5(-12,2)->u1->c4
+   Total Material
+     heating                              55128.9 +/- 1013.11
+ Distributed Cell u10->c34->l5(-11,2)->u1->c4
+   Total Material
+     heating                              55995 +/- 958.721
+ Distributed Cell u10->c34->l5(-10,2)->u1->c4
+   Total Material
+     heating                              56669.5 +/- 1003.49
+ Distributed Cell u10->c34->l5(-9,2)->u1->c4
+   Total Material
+     heating                              57398.2 +/- 951.674
+ Distributed Cell u10->c34->l5(-8,2)->u1->c4
+   Total Material
+     heating                              61982.1 +/- 1174.22
+ Distributed Cell u10->c34->l5(-7,2)->u1->c4
+   Total Material
+     heating                              62810 +/- 1032.88
+ Distributed Cell u10->c34->l5(-6,2)->u1->c4
+   Total Material
+     heating                              66075.4 +/- 1314.77
+ Distributed Cell u10->c34->l5(-5,2)->u1->c4
+   Total Material
+     heating                              64961.8 +/- 1230.66
+ Distributed Cell u10->c34->l5(-4,2)->u1->c4
+   Total Material
+     heating                              64392.3 +/- 1133.64
+ Distributed Cell u10->c34->l5(-3,2)->u1->c4
+   Total Material
+     heating                              67375.9 +/- 1205.5
+ Distributed Cell u10->c34->l5(-2,2)->u1->c4
+   Total Material
+     heating                              67062.4 +/- 1110.43
+ Distributed Cell u10->c34->l5(-1,2)->u1->c4
+   Total Material
+     heating                              63814.9 +/- 887.067
+ Distributed Cell u10->c34->l5(0,2)->u1->c4
+   Total Material
+     heating                              65452.3 +/- 1035.95
+ Distributed Cell u10->c34->l5(1,2)->u1->c4
+   Total Material
+     heating                              65229.6 +/- 1249.44
+ Distributed Cell u10->c34->l5(2,2)->u1->c4
+   Total Material
+     heating                              65814.8 +/- 1248.89
+ Distributed Cell u10->c34->l5(3,2)->u1->c4
+   Total Material
+     heating                              65688.3 +/- 1193.36
+ Distributed Cell u10->c34->l5(4,2)->u1->c4
+   Total Material
+     heating                              65837.4 +/- 1220.27
+ Distributed Cell u10->c34->l5(5,2)->u1->c4
+   Total Material
+     heating                              63383.4 +/- 1259.85
+ Distributed Cell u10->c34->l5(6,2)->u1->c4
+   Total Material
+     heating                              61511.8 +/- 1016.78
+ Distributed Cell u10->c34->l5(7,2)->u1->c4
+   Total Material
+     heating                              58639 +/- 1029.47
+ Distributed Cell u10->c34->l5(8,2)->u1->c4
+   Total Material
+     heating                              58470.7 +/- 954.084
+ Distributed Cell u10->c34->l5(9,2)->u1->c4
+   Total Material
+     heating                              57905.5 +/- 1036.75
+ Distributed Cell u10->c34->l5(10,2)->u1->c4
+   Total Material
+     heating                              56723.9 +/- 1033.3
+ Distributed Cell u10->c34->l5(11,2)->u1->c4
+   Total Material
+     heating                              57051.4 +/- 1206.49
+ Distributed Cell u10->c34->l5(12,2)->u1->c4
+   Total Material
+     heating                              52724.8 +/- 1060.04
+ Distributed Cell u10->c34->l5(13,2)->u1->c4
+   Total Material
+     heating                              50666.3 +/- 934.258
+ Distributed Cell u10->c34->l5(14,2)->u1->c4
+   Total Material
+     heating                              50104.6 +/- 891.99
+ Distributed Cell u10->c34->l5(15,2)->u1->c4
+   Total Material
+     heating                              51702.3 +/- 1171.54
+ Distributed Cell u10->c34->l5(16,2)->u1->c4
+   Total Material
+     heating                              58309.1 +/- 1354.01
+ Distributed Cell u10->c34->l5(17,2)->u1->c4
+   Total Material
+     heating                              110720 +/- 3351.83
+ Distributed Cell u10->c34->l5(-19,3)->u1->c4
+   Total Material
+     heating                              79046.7 +/- 2203.06
+ Distributed Cell u10->c34->l5(-18,3)->u1->c4
+   Total Material
+     heating                              51416.5 +/- 1118.26
+ Distributed Cell u10->c34->l5(-17,3)->u1->c4
+   Total Material
+     heating                              49222 +/- 1058.39
+ Distributed Cell u10->c34->l5(-16,3)->u1->c4
+   Total Material
+     heating                              47811 +/- 985.333
+ Distributed Cell u10->c34->l5(-15,3)->u1->c4
+   Total Material
+     heating                              51172.1 +/- 1017.97
+ Distributed Cell u10->c34->l5(-14,3)->u1->c4
+   Total Material
+     heating                              51388.3 +/- 1065.32
+ Distributed Cell u10->c34->l5(-13,3)->u1->c4
+   Total Material
+     heating                              52564.9 +/- 987.17
+ Distributed Cell u10->c34->l5(-12,3)->u1->c4
+   Total Material
+     heating                              54156.7 +/- 903.385
+ Distributed Cell u10->c34->l5(-11,3)->u1->c4
+   Total Material
+     heating                              58540.4 +/- 1313.38
+ Distributed Cell u10->c34->l5(-10,3)->u1->c4
+   Total Material
+     heating                              57540.3 +/- 1077.61
+ Distributed Cell u10->c34->l5(-9,3)->u1->c4
+   Total Material
+     heating                              60314.4 +/- 1009.15
+ Distributed Cell u10->c34->l5(-8,3)->u1->c4
+   Total Material
+     heating                              63056.3 +/- 1138.92
+ Distributed Cell u10->c34->l5(-7,3)->u1->c4
+   Total Material
+     heating                              63583.3 +/- 1313.81
+ Distributed Cell u10->c34->l5(-6,3)->u1->c4
+   Total Material
+     heating                              64785.4 +/- 1237.55
+ Distributed Cell u10->c34->l5(-5,3)->u1->c4
+   Total Material
+     heating                              64793.6 +/- 1166.55
+ Distributed Cell u10->c34->l5(-4,3)->u1->c4
+   Total Material
+     heating                              65429.3 +/- 1224.37
+ Distributed Cell u10->c34->l5(-3,3)->u1->c4
+   Total Material
+     heating                              65548.9 +/- 1019.96
+ Distributed Cell u10->c34->l5(-2,3)->u1->c4
+   Total Material
+     heating                              66813.3 +/- 1127.1
+ Distributed Cell u10->c34->l5(-1,3)->u1->c4
+   Total Material
+     heating                              68136.5 +/- 1294.88
+ Distributed Cell u10->c34->l5(0,3)->u1->c4
+   Total Material
+     heating                              64043.1 +/- 1043.51
+ Distributed Cell u10->c34->l5(1,3)->u1->c4
+   Total Material
+     heating                              65945.1 +/- 1128.97
+ Distributed Cell u10->c34->l5(2,3)->u1->c4
+   Total Material
+     heating                              64639.2 +/- 953.773
+ Distributed Cell u10->c34->l5(3,3)->u1->c4
+   Total Material
+     heating                              64555.1 +/- 1107.93
+ Distributed Cell u10->c34->l5(4,3)->u1->c4
+   Total Material
+     heating                              64008.7 +/- 1040.22
+ Distributed Cell u10->c34->l5(5,3)->u1->c4
+   Total Material
+     heating                              62425.6 +/- 915.897
+ Distributed Cell u10->c34->l5(6,3)->u1->c4
+   Total Material
+     heating                              60636.4 +/- 1080.72
+ Distributed Cell u10->c34->l5(7,3)->u1->c4
+   Total Material
+     heating                              58756.8 +/- 1063.09
+ Distributed Cell u10->c34->l5(8,3)->u1->c4
+   Total Material
+     heating                              59401.8 +/- 1051.84
+ Distributed Cell u10->c34->l5(9,3)->u1->c4
+   Total Material
+     heating                              55114.7 +/- 959.841
+ Distributed Cell u10->c34->l5(10,3)->u1->c4
+   Total Material
+     heating                              56327.7 +/- 1122.78
+ Distributed Cell u10->c34->l5(11,3)->u1->c4
+   Total Material
+     heating                              56283.5 +/- 1146.61
+ Distributed Cell u10->c34->l5(12,3)->u1->c4
+   Total Material
+     heating                              53548.7 +/- 1190.56
+ Distributed Cell u10->c34->l5(13,3)->u1->c4
+   Total Material
+     heating                              48630.4 +/- 984.975
+ Distributed Cell u10->c34->l5(14,3)->u1->c4
+   Total Material
+     heating                              50008.5 +/- 1200
+ Distributed Cell u10->c34->l5(15,3)->u1->c4
+   Total Material
+     heating                              55987.1 +/- 1494.05
+ Distributed Cell u10->c34->l5(16,3)->u1->c4
+   Total Material
+     heating                              82363.6 +/- 2520.11
+ Distributed Cell u10->c34->l5(-20,4)->u1->c4
+   Total Material
+     heating                              129427 +/- 3814.73
+ Distributed Cell u10->c34->l5(-19,4)->u1->c4
+   Total Material
+     heating                              55806.9 +/- 1186.2
+ Distributed Cell u10->c34->l5(-18,4)->u1->c4
+   Total Material
+     heating                              48419 +/- 1149.08
+ Distributed Cell u10->c34->l5(-17,4)->u1->c4
+   Total Material
+     heating                              49112.6 +/- 1126.08
+ Distributed Cell u10->c34->l5(-16,4)->u1->c4
+   Total Material
+     heating                              47667.9 +/- 984.641
+ Distributed Cell u10->c34->l5(-15,4)->u1->c4
+   Total Material
+     heating                              49637.7 +/- 1097.81
+ Distributed Cell u10->c34->l5(-14,4)->u1->c4
+   Total Material
+     heating                              51085.8 +/- 1017.22
+ Distributed Cell u10->c34->l5(-13,4)->u1->c4
+   Total Material
+     heating                              52042.3 +/- 959.84
+ Distributed Cell u10->c34->l5(-12,4)->u1->c4
+   Total Material
+     heating                              55756.1 +/- 1039.95
+ Distributed Cell u10->c34->l5(-11,4)->u1->c4
+   Total Material
+     heating                              57560.6 +/- 1152.23
+ Distributed Cell u10->c34->l5(-10,4)->u1->c4
+   Total Material
+     heating                              58672.6 +/- 1004.02
+ Distributed Cell u10->c34->l5(-9,4)->u1->c4
+   Total Material
+     heating                              59311.1 +/- 1116.16
+ Distributed Cell u10->c34->l5(-8,4)->u1->c4
+   Total Material
+     heating                              62483.9 +/- 1122.01
+ Distributed Cell u10->c34->l5(-7,4)->u1->c4
+   Total Material
+     heating                              64261.7 +/- 1092.79
+ Distributed Cell u10->c34->l5(-6,4)->u1->c4
+   Total Material
+     heating                              62811 +/- 998.496
+ Distributed Cell u10->c34->l5(-5,4)->u1->c4
+   Total Material
+     heating                              63940 +/- 1062.49
+ Distributed Cell u10->c34->l5(-4,4)->u1->c4
+   Total Material
+     heating                              64619.4 +/- 1324.33
+ Distributed Cell u10->c34->l5(-3,4)->u1->c4
+   Total Material
+     heating                              66304.3 +/- 1194.37
+ Distributed Cell u10->c34->l5(-2,4)->u1->c4
+   Total Material
+     heating                              65678.5 +/- 1289.24
+ Distributed Cell u10->c34->l5(-1,4)->u1->c4
+   Total Material
+     heating                              64781.6 +/- 1081.9
+ Distributed Cell u10->c34->l5(0,4)->u1->c4
+   Total Material
+     heating                              64666.8 +/- 1000.38
+ Distributed Cell u10->c34->l5(1,4)->u1->c4
+   Total Material
+     heating                              64622.8 +/- 1180.59
+ Distributed Cell u10->c34->l5(2,4)->u1->c4
+   Total Material
+     heating                              64861.7 +/- 1019.83
+ Distributed Cell u10->c34->l5(3,4)->u1->c4
+   Total Material
+     heating                              65151.6 +/- 1123.98
+ Distributed Cell u10->c34->l5(4,4)->u1->c4
+   Total Material
+     heating                              61766.3 +/- 1005.84
+ Distributed Cell u10->c34->l5(5,4)->u1->c4
+   Total Material
+     heating                              61502.2 +/- 1190.44
+ Distributed Cell u10->c34->l5(6,4)->u1->c4
+   Total Material
+     heating                              60282 +/- 1157.41
+ Distributed Cell u10->c34->l5(7,4)->u1->c4
+   Total Material
+     heating                              59236 +/- 1075.59
+ Distributed Cell u10->c34->l5(8,4)->u1->c4
+   Total Material
+     heating                              56981.4 +/- 974.462
+ Distributed Cell u10->c34->l5(9,4)->u1->c4
+   Total Material
+     heating                              56347.8 +/- 1047.73
+ Distributed Cell u10->c34->l5(10,4)->u1->c4
+   Total Material
+     heating                              54286.8 +/- 1101.9
+ Distributed Cell u10->c34->l5(11,4)->u1->c4
+   Total Material
+     heating                              52434.6 +/- 903.371
+ Distributed Cell u10->c34->l5(12,4)->u1->c4
+   Total Material
+     heating                              51230.9 +/- 1124.82
+ Distributed Cell u10->c34->l5(13,4)->u1->c4
+   Total Material
+     heating                              51360 +/- 1304.94
+ Distributed Cell u10->c34->l5(14,4)->u1->c4
+   Total Material
+     heating                              51399.9 +/- 1288.16
+ Distributed Cell u10->c34->l5(15,4)->u1->c4
+   Total Material
+     heating                              62108.5 +/- 1703.6
+ Distributed Cell u10->c34->l5(16,4)->u1->c4
+   Total Material
+     heating                              139455 +/- 3593.5
+ Distributed Cell u10->c34->l5(-20,5)->u1->c4
+   Total Material
+     heating                              84124.1 +/- 2402.31
+ Distributed Cell u10->c34->l5(-19,5)->u1->c4
+   Total Material
+     heating                              50085.8 +/- 1268.15
+ Distributed Cell u10->c34->l5(-18,5)->u1->c4
+   Total Material
+     heating                              48239.9 +/- 1152.79
+ Distributed Cell u10->c34->l5(-17,5)->u1->c4
+   Total Material
+     heating                              48009.2 +/- 898.454
+ Distributed Cell u10->c34->l5(-16,5)->u1->c4
+   Total Material
+     heating                              49698.6 +/- 1116.01
+ Distributed Cell u10->c34->l5(-15,5)->u1->c4
+   Total Material
+     heating                              52569.3 +/- 1182.78
+ Distributed Cell u10->c34->l5(-14,5)->u1->c4
+   Total Material
+     heating                              50823.3 +/- 886.706
+ Distributed Cell u10->c34->l5(-13,5)->u1->c4
+   Total Material
+     heating                              54894.5 +/- 1028.22
+ Distributed Cell u10->c34->l5(-12,5)->u1->c4
+   Total Material
+     heating                              57593.2 +/- 1079.48
+ Distributed Cell u10->c34->l5(-11,5)->u1->c4
+   Total Material
+     heating                              56063.6 +/- 1064.51
+ Distributed Cell u10->c34->l5(-10,5)->u1->c4
+   Total Material
+     heating                              57385.2 +/- 1022.58
+ Distributed Cell u10->c34->l5(-9,5)->u1->c4
+   Total Material
+     heating                              59964.8 +/- 1154.02
+ Distributed Cell u10->c34->l5(-8,5)->u1->c4
+   Total Material
+     heating                              60888.1 +/- 888.692
+ Distributed Cell u10->c34->l5(-7,5)->u1->c4
+   Total Material
+     heating                              63164 +/- 1216.9
+ Distributed Cell u10->c34->l5(-6,5)->u1->c4
+   Total Material
+     heating                              62831.8 +/- 1051.16
+ Distributed Cell u10->c34->l5(-5,5)->u1->c4
+   Total Material
+     heating                              64281.3 +/- 1038.96
+ Distributed Cell u10->c34->l5(-4,5)->u1->c4
+   Total Material
+     heating                              65295 +/- 1145.09
+ Distributed Cell u10->c34->l5(-3,5)->u1->c4
+   Total Material
+     heating                              64039.4 +/- 1110.64
+ Distributed Cell u10->c34->l5(-2,5)->u1->c4
+   Total Material
+     heating                              64097.9 +/- 1007.77
+ Distributed Cell u10->c34->l5(-1,5)->u1->c4
+   Total Material
+     heating                              64007.9 +/- 1209.7
+ Distributed Cell u10->c34->l5(0,5)->u1->c4
+   Total Material
+     heating                              63750 +/- 980.479
+ Distributed Cell u10->c34->l5(1,5)->u1->c4
+   Total Material
+     heating                              64513.2 +/- 953.583
+ Distributed Cell u10->c34->l5(2,5)->u1->c4
+   Total Material
+     heating                              63720.2 +/- 1117.08
+ Distributed Cell u10->c34->l5(3,5)->u1->c4
+   Total Material
+     heating                              63705.3 +/- 1280.88
+ Distributed Cell u10->c34->l5(4,5)->u1->c4
+   Total Material
+     heating                              63588.2 +/- 1233.93
+ Distributed Cell u10->c34->l5(5,5)->u1->c4
+   Total Material
+     heating                              59419.9 +/- 981.164
+ Distributed Cell u10->c34->l5(6,5)->u1->c4
+   Total Material
+     heating                              59530 +/- 1171.83
+ Distributed Cell u10->c34->l5(7,5)->u1->c4
+   Total Material
+     heating                              57822 +/- 1006.23
+ Distributed Cell u10->c34->l5(8,5)->u1->c4
+   Total Material
+     heating                              55534.5 +/- 970.403
+ Distributed Cell u10->c34->l5(9,5)->u1->c4
+   Total Material
+     heating                              53961.2 +/- 949.52
+ Distributed Cell u10->c34->l5(10,5)->u1->c4
+   Total Material
+     heating                              51984.6 +/- 1002.52
+ Distributed Cell u10->c34->l5(11,5)->u1->c4
+   Total Material
+     heating                              51606.5 +/- 925.951
+ Distributed Cell u10->c34->l5(12,5)->u1->c4
+   Total Material
+     heating                              48939 +/- 1044.09
+ Distributed Cell u10->c34->l5(13,5)->u1->c4
+   Total Material
+     heating                              51446.3 +/- 1185.52
+ Distributed Cell u10->c34->l5(14,5)->u1->c4
+   Total Material
+     heating                              55622.2 +/- 1188.44
+ Distributed Cell u10->c34->l5(15,5)->u1->c4
+   Total Material
+     heating                              89503.8 +/- 2375.48
+ Distributed Cell u10->c34->l5(-21,6)->u1->c4
+   Total Material
+     heating                              146677 +/- 4092.86
+ Distributed Cell u10->c34->l5(-20,6)->u1->c4
+   Total Material
+     heating                              62823.7 +/- 1536.99
+ Distributed Cell u10->c34->l5(-19,6)->u1->c4
+   Total Material
+     heating                              51680.3 +/- 1231.77
+ Distributed Cell u10->c34->l5(-18,6)->u1->c4
+   Total Material
+     heating                              46558.7 +/- 1123.36
+ Distributed Cell u10->c34->l5(-17,6)->u1->c4
+   Total Material
+     heating                              50315.9 +/- 1112.14
+ Distributed Cell u10->c34->l5(-16,6)->u1->c4
+   Total Material
+     heating                              50196.4 +/- 1009.64
+ Distributed Cell u10->c34->l5(-15,6)->u1->c4
+   Total Material
+     heating                              50958.4 +/- 1028.54
+ Distributed Cell u10->c34->l5(-14,6)->u1->c4
+   Total Material
+     heating                              53730.3 +/- 1050.93
+ Distributed Cell u10->c34->l5(-13,6)->u1->c4
+   Total Material
+     heating                              56280.9 +/- 1141.5
+ Distributed Cell u10->c34->l5(-12,6)->u1->c4
+   Total Material
+     heating                              55770.7 +/- 1071.63
+ Distributed Cell u10->c34->l5(-11,6)->u1->c4
+   Total Material
+     heating                              58119.1 +/- 1148.85
+ Distributed Cell u10->c34->l5(-10,6)->u1->c4
+   Total Material
+     heating                              58815.8 +/- 1149.81
+ Distributed Cell u10->c34->l5(-9,6)->u1->c4
+   Total Material
+     heating                              60907.2 +/- 987.377
+ Distributed Cell u10->c34->l5(-8,6)->u1->c4
+   Total Material
+     heating                              60111.3 +/- 1120.99
+ Distributed Cell u10->c34->l5(-7,6)->u1->c4
+   Total Material
+     heating                              61414.1 +/- 1128.69
+ Distributed Cell u10->c34->l5(-6,6)->u1->c4
+   Total Material
+     heating                              61347.1 +/- 879.19
+ Distributed Cell u10->c34->l5(-5,6)->u1->c4
+   Total Material
+     heating                              63185.9 +/- 920.808
+ Distributed Cell u10->c34->l5(-4,6)->u1->c4
+   Total Material
+     heating                              64315 +/- 1177.89
+ Distributed Cell u10->c34->l5(-3,6)->u1->c4
+   Total Material
+     heating                              63804.8 +/- 1177.99
+ Distributed Cell u10->c34->l5(-2,6)->u1->c4
+   Total Material
+     heating                              63478.1 +/- 1087.88
+ Distributed Cell u10->c34->l5(-1,6)->u1->c4
+   Total Material
+     heating                              64173.8 +/- 1081.1
+ Distributed Cell u10->c34->l5(0,6)->u1->c4
+   Total Material
+     heating                              64034.5 +/- 1402.75
+ Distributed Cell u10->c34->l5(1,6)->u1->c4
+   Total Material
+     heating                              63684.5 +/- 1118.67
+ Distributed Cell u10->c34->l5(2,6)->u1->c4
+   Total Material
+     heating                              63521 +/- 1289.29
+ Distributed Cell u10->c34->l5(3,6)->u1->c4
+   Total Material
+     heating                              62092.9 +/- 1197.18
+ Distributed Cell u10->c34->l5(4,6)->u1->c4
+   Total Material
+     heating                              59892.1 +/- 1141.48
+ Distributed Cell u10->c34->l5(5,6)->u1->c4
+   Total Material
+     heating                              57848.8 +/- 914.982
+ Distributed Cell u10->c34->l5(6,6)->u1->c4
+   Total Material
+     heating                              59487.3 +/- 1201.77
+ Distributed Cell u10->c34->l5(7,6)->u1->c4
+   Total Material
+     heating                              56262.7 +/- 1002.43
+ Distributed Cell u10->c34->l5(8,6)->u1->c4
+   Total Material
+     heating                              55912.4 +/- 1001.54
+ Distributed Cell u10->c34->l5(9,6)->u1->c4
+   Total Material
+     heating                              54323.6 +/- 938.218
+ Distributed Cell u10->c34->l5(10,6)->u1->c4
+   Total Material
+     heating                              51574.8 +/- 1025.13
+ Distributed Cell u10->c34->l5(11,6)->u1->c4
+   Total Material
+     heating                              50304.3 +/- 1058.41
+ Distributed Cell u10->c34->l5(12,6)->u1->c4
+   Total Material
+     heating                              49824.7 +/- 1240.67
+ Distributed Cell u10->c34->l5(13,6)->u1->c4
+   Total Material
+     heating                              55534.7 +/- 1403.83
+ Distributed Cell u10->c34->l5(14,6)->u1->c4
+   Total Material
+     heating                              64399.1 +/- 1481.22
+ Distributed Cell u10->c34->l5(15,6)->u1->c4
+   Total Material
+     heating                              154450 +/- 4468.74
+ Distributed Cell u10->c34->l5(-21,7)->u1->c4
+   Total Material
+     heating                              125974 +/- 3346.63
+ Distributed Cell u10->c34->l5(-20,7)->u1->c4
+   Total Material
+     heating                              59169.3 +/- 1412.82
+ Distributed Cell u10->c34->l5(-19,7)->u1->c4
+   Total Material
+     heating                              51558.5 +/- 1100.27
+ Distributed Cell u10->c34->l5(-18,7)->u1->c4
+   Total Material
+     heating                              48403.6 +/- 1167.43
+ Distributed Cell u10->c34->l5(-17,7)->u1->c4
+   Total Material
+     heating                              49936.2 +/- 908.003
+ Distributed Cell u10->c34->l5(-16,7)->u1->c4
+   Total Material
+     heating                              52200.4 +/- 1067.42
+ Distributed Cell u10->c34->l5(-15,7)->u1->c4
+   Total Material
+     heating                              53176.1 +/- 1030.85
+ Distributed Cell u10->c34->l5(-14,7)->u1->c4
+   Total Material
+     heating                              53029.8 +/- 1047.33
+ Distributed Cell u10->c34->l5(-13,7)->u1->c4
+   Total Material
+     heating                              55588.4 +/- 1168.59
+ Distributed Cell u10->c34->l5(-12,7)->u1->c4
+   Total Material
+     heating                              57719.6 +/- 1233.92
+ Distributed Cell u10->c34->l5(-11,7)->u1->c4
+   Total Material
+     heating                              56001.9 +/- 1033.88
+ Distributed Cell u10->c34->l5(-10,7)->u1->c4
+   Total Material
+     heating                              58911.8 +/- 1121.22
+ Distributed Cell u10->c34->l5(-9,7)->u1->c4
+   Total Material
+     heating                              60843.3 +/- 1185.31
+ Distributed Cell u10->c34->l5(-8,7)->u1->c4
+   Total Material
+     heating                              62341.3 +/- 1271.33
+ Distributed Cell u10->c34->l5(-7,7)->u1->c4
+   Total Material
+     heating                              64213.9 +/- 1233.96
+ Distributed Cell u10->c34->l5(-6,7)->u1->c4
+   Total Material
+     heating                              63836.8 +/- 968.961
+ Distributed Cell u10->c34->l5(-5,7)->u1->c4
+   Total Material
+     heating                              62798.7 +/- 929.959
+ Distributed Cell u10->c34->l5(-4,7)->u1->c4
+   Total Material
+     heating                              63223.2 +/- 1129.6
+ Distributed Cell u10->c34->l5(-3,7)->u1->c4
+   Total Material
+     heating                              62170.7 +/- 1023.83
+ Distributed Cell u10->c34->l5(-2,7)->u1->c4
+   Total Material
+     heating                              62450.8 +/- 1028.04
+ Distributed Cell u10->c34->l5(-1,7)->u1->c4
+   Total Material
+     heating                              62482.1 +/- 1118.07
+ Distributed Cell u10->c34->l5(0,7)->u1->c4
+   Total Material
+     heating                              61636.8 +/- 1075.79
+ Distributed Cell u10->c34->l5(1,7)->u1->c4
+   Total Material
+     heating                              63064.2 +/- 1173.39
+ Distributed Cell u10->c34->l5(2,7)->u1->c4
+   Total Material
+     heating                              61036.3 +/- 1086.03
+ Distributed Cell u10->c34->l5(3,7)->u1->c4
+   Total Material
+     heating                              60377.8 +/- 1077.24
+ Distributed Cell u10->c34->l5(4,7)->u1->c4
+   Total Material
+     heating                              58463.5 +/- 928.657
+ Distributed Cell u10->c34->l5(5,7)->u1->c4
+   Total Material
+     heating                              59501.6 +/- 987.707
+ Distributed Cell u10->c34->l5(6,7)->u1->c4
+   Total Material
+     heating                              55211.4 +/- 952.969
+ Distributed Cell u10->c34->l5(7,7)->u1->c4
+   Total Material
+     heating                              54158.2 +/- 1136.8
+ Distributed Cell u10->c34->l5(8,7)->u1->c4
+   Total Material
+     heating                              54138 +/- 1037.11
+ Distributed Cell u10->c34->l5(9,7)->u1->c4
+   Total Material
+     heating                              52121.5 +/- 1012.37
+ Distributed Cell u10->c34->l5(10,7)->u1->c4
+   Total Material
+     heating                              51968.6 +/- 931.141
+ Distributed Cell u10->c34->l5(11,7)->u1->c4
+   Total Material
+     heating                              51629.3 +/- 1234.82
+ Distributed Cell u10->c34->l5(12,7)->u1->c4
+   Total Material
+     heating                              53143.4 +/- 1082.89
+ Distributed Cell u10->c34->l5(13,7)->u1->c4
+   Total Material
+     heating                              63010.5 +/- 1706.72
+ Distributed Cell u10->c34->l5(14,7)->u1->c4
+   Total Material
+     heating                              129492 +/- 3542.22
+ Distributed Cell u10->c34->l5(-21,8)->u1->c4
+   Total Material
+     heating                              117167 +/- 3451.28
+ Distributed Cell u10->c34->l5(-20,8)->u1->c4
+   Total Material
+     heating                              58022.1 +/- 1526.22
+ Distributed Cell u10->c34->l5(-19,8)->u1->c4
+   Total Material
+     heating                              50328.9 +/- 1246.75
+ Distributed Cell u10->c34->l5(-18,8)->u1->c4
+   Total Material
+     heating                              47627 +/- 1053.43
+ Distributed Cell u10->c34->l5(-17,8)->u1->c4
+   Total Material
+     heating                              51826.4 +/- 1257.02
+ Distributed Cell u10->c34->l5(-16,8)->u1->c4
+   Total Material
+     heating                              51590.7 +/- 1024.69
+ Distributed Cell u10->c34->l5(-15,8)->u1->c4
+   Total Material
+     heating                              53439.9 +/- 1163.17
+ Distributed Cell u10->c34->l5(-14,8)->u1->c4
+   Total Material
+     heating                              54181.5 +/- 1026.42
+ Distributed Cell u10->c34->l5(-13,8)->u1->c4
+   Total Material
+     heating                              54543.4 +/- 933.573
+ Distributed Cell u10->c34->l5(-12,8)->u1->c4
+   Total Material
+     heating                              56232.8 +/- 1240.27
+ Distributed Cell u10->c34->l5(-11,8)->u1->c4
+   Total Material
+     heating                              58587.4 +/- 1001.37
+ Distributed Cell u10->c34->l5(-10,8)->u1->c4
+   Total Material
+     heating                              59136.7 +/- 1008.12
+ Distributed Cell u10->c34->l5(-9,8)->u1->c4
+   Total Material
+     heating                              61255.8 +/- 1131.53
+ Distributed Cell u10->c34->l5(-8,8)->u1->c4
+   Total Material
+     heating                              62031.8 +/- 1093.12
+ Distributed Cell u10->c34->l5(-7,8)->u1->c4
+   Total Material
+     heating                              61336.7 +/- 1087.08
+ Distributed Cell u10->c34->l5(-6,8)->u1->c4
+   Total Material
+     heating                              60028.9 +/- 1125.77
+ Distributed Cell u10->c34->l5(-5,8)->u1->c4
+   Total Material
+     heating                              62100.6 +/- 1225.02
+ Distributed Cell u10->c34->l5(-4,8)->u1->c4
+   Total Material
+     heating                              64973.2 +/- 1421.81
+ Distributed Cell u10->c34->l5(-3,8)->u1->c4
+   Total Material
+     heating                              62257.1 +/- 1133.8
+ Distributed Cell u10->c34->l5(-2,8)->u1->c4
+   Total Material
+     heating                              60164.6 +/- 923.812
+ Distributed Cell u10->c34->l5(-1,8)->u1->c4
+   Total Material
+     heating                              62874.8 +/- 1188.51
+ Distributed Cell u10->c34->l5(0,8)->u1->c4
+   Total Material
+     heating                              62353.5 +/- 1085.26
+ Distributed Cell u10->c34->l5(1,8)->u1->c4
+   Total Material
+     heating                              59430.9 +/- 988.587
+ Distributed Cell u10->c34->l5(2,8)->u1->c4
+   Total Material
+     heating                              60049.7 +/- 1160.15
+ Distributed Cell u10->c34->l5(3,8)->u1->c4
+   Total Material
+     heating                              58883.8 +/- 1132.3
+ Distributed Cell u10->c34->l5(4,8)->u1->c4
+   Total Material
+     heating                              57478.1 +/- 1087.99
+ Distributed Cell u10->c34->l5(5,8)->u1->c4
+   Total Material
+     heating                              57984 +/- 1204.73
+ Distributed Cell u10->c34->l5(6,8)->u1->c4
+   Total Material
+     heating                              53201 +/- 955.193
+ Distributed Cell u10->c34->l5(7,8)->u1->c4
+   Total Material
+     heating                              54749.8 +/- 1152.42
+ Distributed Cell u10->c34->l5(8,8)->u1->c4
+   Total Material
+     heating                              53144.3 +/- 1109.4
+ Distributed Cell u10->c34->l5(9,8)->u1->c4
+   Total Material
+     heating                              51060 +/- 919.376
+ Distributed Cell u10->c34->l5(10,8)->u1->c4
+   Total Material
+     heating                              52977.3 +/- 1208.98
+ Distributed Cell u10->c34->l5(11,8)->u1->c4
+   Total Material
+     heating                              51558.4 +/- 1118.61
+ Distributed Cell u10->c34->l5(12,8)->u1->c4
+   Total Material
+     heating                              63458.5 +/- 1532.37
+ Distributed Cell u10->c34->l5(13,8)->u1->c4
+   Total Material
+     heating                              126676 +/- 3129.4
+ Distributed Cell u10->c34->l5(-21,9)->u1->c4
+   Total Material
+     heating                              120217 +/- 3867.37
+ Distributed Cell u10->c34->l5(-20,9)->u1->c4
+   Total Material
+     heating                              58475.4 +/- 1317.97
+ Distributed Cell u10->c34->l5(-19,9)->u1->c4
+   Total Material
+     heating                              49620.3 +/- 1149.26
+ Distributed Cell u10->c34->l5(-18,9)->u1->c4
+   Total Material
+     heating                              49847.7 +/- 1131.97
+ Distributed Cell u10->c34->l5(-17,9)->u1->c4
+   Total Material
+     heating                              49630.7 +/- 927.241
+ Distributed Cell u10->c34->l5(-16,9)->u1->c4
+   Total Material
+     heating                              50665.5 +/- 1091.04
+ Distributed Cell u10->c34->l5(-15,9)->u1->c4
+   Total Material
+     heating                              52395.9 +/- 1124.62
+ Distributed Cell u10->c34->l5(-14,9)->u1->c4
+   Total Material
+     heating                              53968.7 +/- 1093.44
+ Distributed Cell u10->c34->l5(-13,9)->u1->c4
+   Total Material
+     heating                              54033.3 +/- 1183.03
+ Distributed Cell u10->c34->l5(-12,9)->u1->c4
+   Total Material
+     heating                              55625.9 +/- 966.093
+ Distributed Cell u10->c34->l5(-11,9)->u1->c4
+   Total Material
+     heating                              57469.3 +/- 945.499
+ Distributed Cell u10->c34->l5(-10,9)->u1->c4
+   Total Material
+     heating                              59340.8 +/- 1110.22
+ Distributed Cell u10->c34->l5(-9,9)->u1->c4
+   Total Material
+     heating                              59460.7 +/- 997.186
+ Distributed Cell u10->c34->l5(-8,9)->u1->c4
+   Total Material
+     heating                              60343.5 +/- 1148.11
+ Distributed Cell u10->c34->l5(-7,9)->u1->c4
+   Total Material
+     heating                              59142.9 +/- 1108.56
+ Distributed Cell u10->c34->l5(-6,9)->u1->c4
+   Total Material
+     heating                              60162.4 +/- 991.544
+ Distributed Cell u10->c34->l5(-5,9)->u1->c4
+   Total Material
+     heating                              60670 +/- 959.014
+ Distributed Cell u10->c34->l5(-4,9)->u1->c4
+   Total Material
+     heating                              60761.7 +/- 1297.53
+ Distributed Cell u10->c34->l5(-3,9)->u1->c4
+   Total Material
+     heating                              59763.6 +/- 1057.49
+ Distributed Cell u10->c34->l5(-2,9)->u1->c4
+   Total Material
+     heating                              61567.6 +/- 1095.61
+ Distributed Cell u10->c34->l5(-1,9)->u1->c4
+   Total Material
+     heating                              60233.9 +/- 1184.28
+ Distributed Cell u10->c34->l5(0,9)->u1->c4
+   Total Material
+     heating                              59242.3 +/- 1062.81
+ Distributed Cell u10->c34->l5(1,9)->u1->c4
+   Total Material
+     heating                              59706.1 +/- 1054.9
+ Distributed Cell u10->c34->l5(2,9)->u1->c4
+   Total Material
+     heating                              58282.8 +/- 1122.85
+ Distributed Cell u10->c34->l5(3,9)->u1->c4
+   Total Material
+     heating                              55967 +/- 973.206
+ Distributed Cell u10->c34->l5(4,9)->u1->c4
+   Total Material
+     heating                              54182.9 +/- 964.747
+ Distributed Cell u10->c34->l5(5,9)->u1->c4
+   Total Material
+     heating                              54336.4 +/- 1067.23
+ Distributed Cell u10->c34->l5(6,9)->u1->c4
+   Total Material
+     heating                              52377.4 +/- 1042.26
+ Distributed Cell u10->c34->l5(7,9)->u1->c4
+   Total Material
+     heating                              54572.4 +/- 1271.3
+ Distributed Cell u10->c34->l5(8,9)->u1->c4
+   Total Material
+     heating                              50098 +/- 996.855
+ Distributed Cell u10->c34->l5(9,9)->u1->c4
+   Total Material
+     heating                              50109 +/- 948.446
+ Distributed Cell u10->c34->l5(10,9)->u1->c4
+   Total Material
+     heating                              53769.7 +/- 1408.39
+ Distributed Cell u10->c34->l5(11,9)->u1->c4
+   Total Material
+     heating                              61745.4 +/- 1476.22
+ Distributed Cell u10->c34->l5(12,9)->u1->c4
+   Total Material
+     heating                              122651 +/- 3166.95
+ Distributed Cell u10->c34->l5(-21,10)->u1->c4
+   Total Material
+     heating                              117911 +/- 3371.8
+ Distributed Cell u10->c34->l5(-20,10)->u1->c4
+   Total Material
+     heating                              59144.8 +/- 1414.85
+ Distributed Cell u10->c34->l5(-19,10)->u1->c4
+   Total Material
+     heating                              50196.7 +/- 1169.1
+ Distributed Cell u10->c34->l5(-18,10)->u1->c4
+   Total Material
+     heating                              46502.1 +/- 959.325
+ Distributed Cell u10->c34->l5(-17,10)->u1->c4
+   Total Material
+     heating                              50077.2 +/- 1168.88
+ Distributed Cell u10->c34->l5(-16,10)->u1->c4
+   Total Material
+     heating                              49021.4 +/- 885.61
+ Distributed Cell u10->c34->l5(-15,10)->u1->c4
+   Total Material
+     heating                              50598 +/- 966.751
+ Distributed Cell u10->c34->l5(-14,10)->u1->c4
+   Total Material
+     heating                              51494.9 +/- 1043.93
+ Distributed Cell u10->c34->l5(-13,10)->u1->c4
+   Total Material
+     heating                              52598.6 +/- 842.529
+ Distributed Cell u10->c34->l5(-12,10)->u1->c4
+   Total Material
+     heating                              54702.3 +/- 1148.12
+ Distributed Cell u10->c34->l5(-11,10)->u1->c4
+   Total Material
+     heating                              55430.8 +/- 1056.26
+ Distributed Cell u10->c34->l5(-10,10)->u1->c4
+   Total Material
+     heating                              59890 +/- 1233.1
+ Distributed Cell u10->c34->l5(-9,10)->u1->c4
+   Total Material
+     heating                              58791.1 +/- 1044.39
+ Distributed Cell u10->c34->l5(-8,10)->u1->c4
+   Total Material
+     heating                              58481.8 +/- 1051.72
+ Distributed Cell u10->c34->l5(-7,10)->u1->c4
+   Total Material
+     heating                              59561.9 +/- 1009.39
+ Distributed Cell u10->c34->l5(-6,10)->u1->c4
+   Total Material
+     heating                              58655.6 +/- 1030.43
+ Distributed Cell u10->c34->l5(-5,10)->u1->c4
+   Total Material
+     heating                              60121.3 +/- 1187.36
+ Distributed Cell u10->c34->l5(-4,10)->u1->c4
+   Total Material
+     heating                              60808.3 +/- 1270.35
+ Distributed Cell u10->c34->l5(-3,10)->u1->c4
+   Total Material
+     heating                              59981.9 +/- 1091.16
+ Distributed Cell u10->c34->l5(-2,10)->u1->c4
+   Total Material
+     heating                              58293.4 +/- 928.674
+ Distributed Cell u10->c34->l5(-1,10)->u1->c4
+   Total Material
+     heating                              58766.1 +/- 1123.2
+ Distributed Cell u10->c34->l5(0,10)->u1->c4
+   Total Material
+     heating                              58010.3 +/- 1097.86
+ Distributed Cell u10->c34->l5(1,10)->u1->c4
+   Total Material
+     heating                              56080.1 +/- 1030.52
+ Distributed Cell u10->c34->l5(2,10)->u1->c4
+   Total Material
+     heating                              58366.7 +/- 1163.99
+ Distributed Cell u10->c34->l5(3,10)->u1->c4
+   Total Material
+     heating                              55454.7 +/- 1159.77
+ Distributed Cell u10->c34->l5(4,10)->u1->c4
+   Total Material
+     heating                              53760.8 +/- 1061.56
+ Distributed Cell u10->c34->l5(5,10)->u1->c4
+   Total Material
+     heating                              53338.2 +/- 977.222
+ Distributed Cell u10->c34->l5(6,10)->u1->c4
+   Total Material
+     heating                              53419 +/- 1017.66
+ Distributed Cell u10->c34->l5(7,10)->u1->c4
+   Total Material
+     heating                              51995 +/- 991.282
+ Distributed Cell u10->c34->l5(8,10)->u1->c4
+   Total Material
+     heating                              50044.8 +/- 928.466
+ Distributed Cell u10->c34->l5(9,10)->u1->c4
+   Total Material
+     heating                              52553.6 +/- 1076.46
+ Distributed Cell u10->c34->l5(10,10)->u1->c4
+   Total Material
+     heating                              61571.4 +/- 1584.28
+ Distributed Cell u10->c34->l5(11,10)->u1->c4
+   Total Material
+     heating                              127841 +/- 3691.45
+ Distributed Cell u10->c34->l5(-21,11)->u1->c4
+   Total Material
+     heating                              120725 +/- 3019.23
+ Distributed Cell u10->c34->l5(-20,11)->u1->c4
+   Total Material
+     heating                              56957.9 +/- 1372.66
+ Distributed Cell u10->c34->l5(-19,11)->u1->c4
+   Total Material
+     heating                              50837.1 +/- 1230.3
+ Distributed Cell u10->c34->l5(-18,11)->u1->c4
+   Total Material
+     heating                              48218.8 +/- 1039.07
+ Distributed Cell u10->c34->l5(-17,11)->u1->c4
+   Total Material
+     heating                              50937.2 +/- 1075.17
+ Distributed Cell u10->c34->l5(-16,11)->u1->c4
+   Total Material
+     heating                              49327.5 +/- 1017.54
+ Distributed Cell u10->c34->l5(-15,11)->u1->c4
+   Total Material
+     heating                              50296.4 +/- 891.952
+ Distributed Cell u10->c34->l5(-14,11)->u1->c4
+   Total Material
+     heating                              52460.1 +/- 1121.08
+ Distributed Cell u10->c34->l5(-13,11)->u1->c4
+   Total Material
+     heating                              55298.1 +/- 1022.52
+ Distributed Cell u10->c34->l5(-12,11)->u1->c4
+   Total Material
+     heating                              55000.6 +/- 980.03
+ Distributed Cell u10->c34->l5(-11,11)->u1->c4
+   Total Material
+     heating                              57262.4 +/- 1159.52
+ Distributed Cell u10->c34->l5(-10,11)->u1->c4
+   Total Material
+     heating                              57856.7 +/- 1114.85
+ Distributed Cell u10->c34->l5(-9,11)->u1->c4
+   Total Material
+     heating                              58610.5 +/- 1038.19
+ Distributed Cell u10->c34->l5(-8,11)->u1->c4
+   Total Material
+     heating                              59017.2 +/- 1256.71
+ Distributed Cell u10->c34->l5(-7,11)->u1->c4
+   Total Material
+     heating                              56021.7 +/- 913.073
+ Distributed Cell u10->c34->l5(-6,11)->u1->c4
+   Total Material
+     heating                              56841.9 +/- 889.533
+ Distributed Cell u10->c34->l5(-5,11)->u1->c4
+   Total Material
+     heating                              58487.8 +/- 1051.16
+ Distributed Cell u10->c34->l5(-4,11)->u1->c4
+   Total Material
+     heating                              58270.5 +/- 1326.02
+ Distributed Cell u10->c34->l5(-3,11)->u1->c4
+   Total Material
+     heating                              60288.7 +/- 1052.86
+ Distributed Cell u10->c34->l5(-2,11)->u1->c4
+   Total Material
+     heating                              56860.9 +/- 1002.16
+ Distributed Cell u10->c34->l5(-1,11)->u1->c4
+   Total Material
+     heating                              57319.7 +/- 1068.42
+ Distributed Cell u10->c34->l5(0,11)->u1->c4
+   Total Material
+     heating                              57112.4 +/- 1109.19
+ Distributed Cell u10->c34->l5(1,11)->u1->c4
+   Total Material
+     heating                              58107.9 +/- 1258.99
+ Distributed Cell u10->c34->l5(2,11)->u1->c4
+   Total Material
+     heating                              55252.2 +/- 1100.37
+ Distributed Cell u10->c34->l5(3,11)->u1->c4
+   Total Material
+     heating                              53086.6 +/- 945.028
+ Distributed Cell u10->c34->l5(4,11)->u1->c4
+   Total Material
+     heating                              54127.4 +/- 1044.94
+ Distributed Cell u10->c34->l5(5,11)->u1->c4
+   Total Material
+     heating                              53773.8 +/- 1094.77
+ Distributed Cell u10->c34->l5(6,11)->u1->c4
+   Total Material
+     heating                              50215.2 +/- 978.653
+ Distributed Cell u10->c34->l5(7,11)->u1->c4
+   Total Material
+     heating                              50524.5 +/- 991.537
+ Distributed Cell u10->c34->l5(8,11)->u1->c4
+   Total Material
+     heating                              52063.1 +/- 1219.96
+ Distributed Cell u10->c34->l5(9,11)->u1->c4
+   Total Material
+     heating                              61114.7 +/- 1517.58
+ Distributed Cell u10->c34->l5(10,11)->u1->c4
+   Total Material
+     heating                              117679 +/- 3419.44
+ Distributed Cell u10->c34->l5(-21,12)->u1->c4
+   Total Material
+     heating                              110543 +/- 3296.92
+ Distributed Cell u10->c34->l5(-20,12)->u1->c4
+   Total Material
+     heating                              58128.5 +/- 1513.17
+ Distributed Cell u10->c34->l5(-19,12)->u1->c4
+   Total Material
+     heating                              51214.9 +/- 944.018
+ Distributed Cell u10->c34->l5(-18,12)->u1->c4
+   Total Material
+     heating                              48127.5 +/- 1007.16
+ Distributed Cell u10->c34->l5(-17,12)->u1->c4
+   Total Material
+     heating                              48875.9 +/- 973.777
+ Distributed Cell u10->c34->l5(-16,12)->u1->c4
+   Total Material
+     heating                              49775.2 +/- 946.614
+ Distributed Cell u10->c34->l5(-15,12)->u1->c4
+   Total Material
+     heating                              49485 +/- 933.762
+ Distributed Cell u10->c34->l5(-14,12)->u1->c4
+   Total Material
+     heating                              51988.8 +/- 1015.04
+ Distributed Cell u10->c34->l5(-13,12)->u1->c4
+   Total Material
+     heating                              53637.1 +/- 1063.34
+ Distributed Cell u10->c34->l5(-12,12)->u1->c4
+   Total Material
+     heating                              53073.2 +/- 1154.07
+ Distributed Cell u10->c34->l5(-11,12)->u1->c4
+   Total Material
+     heating                              53642.6 +/- 1077.69
+ Distributed Cell u10->c34->l5(-10,12)->u1->c4
+   Total Material
+     heating                              54085.6 +/- 964.593
+ Distributed Cell u10->c34->l5(-9,12)->u1->c4
+   Total Material
+     heating                              56119.6 +/- 1072.88
+ Distributed Cell u10->c34->l5(-8,12)->u1->c4
+   Total Material
+     heating                              56512.5 +/- 1228.13
+ Distributed Cell u10->c34->l5(-7,12)->u1->c4
+   Total Material
+     heating                              57889.5 +/- 1065.67
+ Distributed Cell u10->c34->l5(-6,12)->u1->c4
+   Total Material
+     heating                              56198.8 +/- 1018.24
+ Distributed Cell u10->c34->l5(-5,12)->u1->c4
+   Total Material
+     heating                              55898 +/- 1056.64
+ Distributed Cell u10->c34->l5(-4,12)->u1->c4
+   Total Material
+     heating                              57640.3 +/- 1112.23
+ Distributed Cell u10->c34->l5(-3,12)->u1->c4
+   Total Material
+     heating                              56095.4 +/- 1023.3
+ Distributed Cell u10->c34->l5(-2,12)->u1->c4
+   Total Material
+     heating                              58480.4 +/- 1189.01
+ Distributed Cell u10->c34->l5(-1,12)->u1->c4
+   Total Material
+     heating                              57752.6 +/- 1236.81
+ Distributed Cell u10->c34->l5(0,12)->u1->c4
+   Total Material
+     heating                              59038.5 +/- 1210.14
+ Distributed Cell u10->c34->l5(1,12)->u1->c4
+   Total Material
+     heating                              55087.5 +/- 995.672
+ Distributed Cell u10->c34->l5(2,12)->u1->c4
+   Total Material
+     heating                              52518.2 +/- 1015.84
+ Distributed Cell u10->c34->l5(3,12)->u1->c4
+   Total Material
+     heating                              52765.6 +/- 970.311
+ Distributed Cell u10->c34->l5(4,12)->u1->c4
+   Total Material
+     heating                              53729.8 +/- 1098.75
+ Distributed Cell u10->c34->l5(5,12)->u1->c4
+   Total Material
+     heating                              52133.2 +/- 892.975
+ Distributed Cell u10->c34->l5(6,12)->u1->c4
+   Total Material
+     heating                              50495.8 +/- 1065.91
+ Distributed Cell u10->c34->l5(7,12)->u1->c4
+   Total Material
+     heating                              51660.3 +/- 1115.61
+ Distributed Cell u10->c34->l5(8,12)->u1->c4
+   Total Material
+     heating                              58409.4 +/- 1517.45
+ Distributed Cell u10->c34->l5(9,12)->u1->c4
+   Total Material
+     heating                              119824 +/- 3071.02
+ Distributed Cell u10->c34->l5(-21,13)->u1->c4
+   Total Material
+     heating                              129826 +/- 3416.97
+ Distributed Cell u10->c34->l5(-20,13)->u1->c4
+   Total Material
+     heating                              62053.2 +/- 1627.69
+ Distributed Cell u10->c34->l5(-19,13)->u1->c4
+   Total Material
+     heating                              50681.4 +/- 1203.97
+ Distributed Cell u10->c34->l5(-18,13)->u1->c4
+   Total Material
+     heating                              50266.4 +/- 1089.52
+ Distributed Cell u10->c34->l5(-17,13)->u1->c4
+   Total Material
+     heating                              50345.7 +/- 981.26
+ Distributed Cell u10->c34->l5(-16,13)->u1->c4
+   Total Material
+     heating                              51825.8 +/- 1075.69
+ Distributed Cell u10->c34->l5(-15,13)->u1->c4
+   Total Material
+     heating                              52082.4 +/- 1055.53
+ Distributed Cell u10->c34->l5(-14,13)->u1->c4
+   Total Material
+     heating                              51095.9 +/- 1036.28
+ Distributed Cell u10->c34->l5(-13,13)->u1->c4
+   Total Material
+     heating                              52031.8 +/- 1017.55
+ Distributed Cell u10->c34->l5(-12,13)->u1->c4
+   Total Material
+     heating                              54808.2 +/- 1119.03
+ Distributed Cell u10->c34->l5(-11,13)->u1->c4
+   Total Material
+     heating                              53982.6 +/- 965.762
+ Distributed Cell u10->c34->l5(-10,13)->u1->c4
+   Total Material
+     heating                              54072.9 +/- 991.426
+ Distributed Cell u10->c34->l5(-9,13)->u1->c4
+   Total Material
+     heating                              54725 +/- 1049.33
+ Distributed Cell u10->c34->l5(-8,13)->u1->c4
+   Total Material
+     heating                              54093.6 +/- 1087.43
+ Distributed Cell u10->c34->l5(-7,13)->u1->c4
+   Total Material
+     heating                              54701.1 +/- 1021.84
+ Distributed Cell u10->c34->l5(-6,13)->u1->c4
+   Total Material
+     heating                              56164.4 +/- 1124.76
+ Distributed Cell u10->c34->l5(-5,13)->u1->c4
+   Total Material
+     heating                              53441.7 +/- 962.949
+ Distributed Cell u10->c34->l5(-4,13)->u1->c4
+   Total Material
+     heating                              54022 +/- 983.999
+ Distributed Cell u10->c34->l5(-3,13)->u1->c4
+   Total Material
+     heating                              53223.2 +/- 900.353
+ Distributed Cell u10->c34->l5(-2,13)->u1->c4
+   Total Material
+     heating                              53733.3 +/- 939.867
+ Distributed Cell u10->c34->l5(-1,13)->u1->c4
+   Total Material
+     heating                              56754.7 +/- 1045.44
+ Distributed Cell u10->c34->l5(0,13)->u1->c4
+   Total Material
+     heating                              54943.6 +/- 1048.33
+ Distributed Cell u10->c34->l5(1,13)->u1->c4
+   Total Material
+     heating                              52736.4 +/- 1106.67
+ Distributed Cell u10->c34->l5(2,13)->u1->c4
+   Total Material
+     heating                              52615.9 +/- 904.91
+ Distributed Cell u10->c34->l5(3,13)->u1->c4
+   Total Material
+     heating                              51484.1 +/- 1022.5
+ Distributed Cell u10->c34->l5(4,13)->u1->c4
+   Total Material
+     heating                              52351.9 +/- 1081.94
+ Distributed Cell u10->c34->l5(5,13)->u1->c4
+   Total Material
+     heating                              51793.8 +/- 1047.23
+ Distributed Cell u10->c34->l5(6,13)->u1->c4
+   Total Material
+     heating                              54099.9 +/- 1144.45
+ Distributed Cell u10->c34->l5(7,13)->u1->c4
+   Total Material
+     heating                              61528.3 +/- 1592.11
+ Distributed Cell u10->c34->l5(8,13)->u1->c4
+   Total Material
+     heating                              126640 +/- 3215.13
+ Distributed Cell u10->c34->l5(-21,14)->u1->c4
+   Total Material
+     heating                              129774 +/- 3210.19
+ Distributed Cell u10->c34->l5(-20,14)->u1->c4
+   Total Material
+     heating                              60804.6 +/- 1541.26
+ Distributed Cell u10->c34->l5(-19,14)->u1->c4
+   Total Material
+     heating                              54160 +/- 1382.41
+ Distributed Cell u10->c34->l5(-18,14)->u1->c4
+   Total Material
+     heating                              50908.6 +/- 1117.12
+ Distributed Cell u10->c34->l5(-17,14)->u1->c4
+   Total Material
+     heating                              48632.3 +/- 961.192
+ Distributed Cell u10->c34->l5(-16,14)->u1->c4
+   Total Material
+     heating                              49569.6 +/- 1028.42
+ Distributed Cell u10->c34->l5(-15,14)->u1->c4
+   Total Material
+     heating                              51696.8 +/- 1027.03
+ Distributed Cell u10->c34->l5(-14,14)->u1->c4
+   Total Material
+     heating                              50685.5 +/- 1042.19
+ Distributed Cell u10->c34->l5(-13,14)->u1->c4
+   Total Material
+     heating                              51694.9 +/- 1077.31
+ Distributed Cell u10->c34->l5(-12,14)->u1->c4
+   Total Material
+     heating                              52536.4 +/- 1027.37
+ Distributed Cell u10->c34->l5(-11,14)->u1->c4
+   Total Material
+     heating                              52249.1 +/- 1045.37
+ Distributed Cell u10->c34->l5(-10,14)->u1->c4
+   Total Material
+     heating                              52745.1 +/- 1015.98
+ Distributed Cell u10->c34->l5(-9,14)->u1->c4
+   Total Material
+     heating                              53101.6 +/- 1048.96
+ Distributed Cell u10->c34->l5(-8,14)->u1->c4
+   Total Material
+     heating                              53718.6 +/- 937.519
+ Distributed Cell u10->c34->l5(-7,14)->u1->c4
+   Total Material
+     heating                              53619.9 +/- 1195.67
+ Distributed Cell u10->c34->l5(-6,14)->u1->c4
+   Total Material
+     heating                              51584.2 +/- 905.778
+ Distributed Cell u10->c34->l5(-5,14)->u1->c4
+   Total Material
+     heating                              52572.6 +/- 961.083
+ Distributed Cell u10->c34->l5(-4,14)->u1->c4
+   Total Material
+     heating                              53893.8 +/- 1034.29
+ Distributed Cell u10->c34->l5(-3,14)->u1->c4
+   Total Material
+     heating                              53894.2 +/- 1126.71
+ Distributed Cell u10->c34->l5(-2,14)->u1->c4
+   Total Material
+     heating                              53958.3 +/- 964.074
+ Distributed Cell u10->c34->l5(-1,14)->u1->c4
+   Total Material
+     heating                              55245.5 +/- 1113.9
+ Distributed Cell u10->c34->l5(0,14)->u1->c4
+   Total Material
+     heating                              52501.6 +/- 1141.04
+ Distributed Cell u10->c34->l5(1,14)->u1->c4
+   Total Material
+     heating                              49682.8 +/- 1048.34
+ Distributed Cell u10->c34->l5(2,14)->u1->c4
+   Total Material
+     heating                              50486.9 +/- 944.444
+ Distributed Cell u10->c34->l5(3,14)->u1->c4
+   Total Material
+     heating                              51521 +/- 1020.74
+ Distributed Cell u10->c34->l5(4,14)->u1->c4
+   Total Material
+     heating                              50978.6 +/- 745.411
+ Distributed Cell u10->c34->l5(5,14)->u1->c4
+   Total Material
+     heating                              54810.5 +/- 1201.86
+ Distributed Cell u10->c34->l5(6,14)->u1->c4
+   Total Material
+     heating                              67156 +/- 1873.09
+ Distributed Cell u10->c34->l5(7,14)->u1->c4
+   Total Material
+     heating                              123585 +/- 3815.23
+ Distributed Cell u10->c34->l5(-21,15)->u1->c4
+   Total Material
+     heating                              158460 +/- 4524.36
+ Distributed Cell u10->c34->l5(-20,15)->u1->c4
+   Total Material
+     heating                              90896.1 +/- 2962.37
+ Distributed Cell u10->c34->l5(-19,15)->u1->c4
+   Total Material
+     heating                              59868.7 +/- 1531.91
+ Distributed Cell u10->c34->l5(-18,15)->u1->c4
+   Total Material
+     heating                              53415.4 +/- 1243.8
+ Distributed Cell u10->c34->l5(-17,15)->u1->c4
+   Total Material
+     heating                              50863.6 +/- 1083.09
+ Distributed Cell u10->c34->l5(-16,15)->u1->c4
+   Total Material
+     heating                              49981.3 +/- 1018.02
+ Distributed Cell u10->c34->l5(-15,15)->u1->c4
+   Total Material
+     heating                              51592.3 +/- 977.171
+ Distributed Cell u10->c34->l5(-14,15)->u1->c4
+   Total Material
+     heating                              51540.6 +/- 1040.49
+ Distributed Cell u10->c34->l5(-13,15)->u1->c4
+   Total Material
+     heating                              51243.6 +/- 964.448
+ Distributed Cell u10->c34->l5(-12,15)->u1->c4
+   Total Material
+     heating                              51734 +/- 1135.6
+ Distributed Cell u10->c34->l5(-11,15)->u1->c4
+   Total Material
+     heating                              50952.6 +/- 959.814
+ Distributed Cell u10->c34->l5(-10,15)->u1->c4
+   Total Material
+     heating                              51048.4 +/- 965.331
+ Distributed Cell u10->c34->l5(-9,15)->u1->c4
+   Total Material
+     heating                              52904.5 +/- 966.885
+ Distributed Cell u10->c34->l5(-8,15)->u1->c4
+   Total Material
+     heating                              52047.3 +/- 1025
+ Distributed Cell u10->c34->l5(-7,15)->u1->c4
+   Total Material
+     heating                              51637.3 +/- 1068.67
+ Distributed Cell u10->c34->l5(-6,15)->u1->c4
+   Total Material
+     heating                              52694.6 +/- 1208.08
+ Distributed Cell u10->c34->l5(-5,15)->u1->c4
+   Total Material
+     heating                              53495.6 +/- 1150.76
+ Distributed Cell u10->c34->l5(-4,15)->u1->c4
+   Total Material
+     heating                              51167.8 +/- 973.178
+ Distributed Cell u10->c34->l5(-3,15)->u1->c4
+   Total Material
+     heating                              51655 +/- 1010.93
+ Distributed Cell u10->c34->l5(-2,15)->u1->c4
+   Total Material
+     heating                              52304.9 +/- 1163.71
+ Distributed Cell u10->c34->l5(-1,15)->u1->c4
+   Total Material
+     heating                              51851 +/- 1145.42
+ Distributed Cell u10->c34->l5(0,15)->u1->c4
+   Total Material
+     heating                              49680.2 +/- 1098.07
+ Distributed Cell u10->c34->l5(1,15)->u1->c4
+   Total Material
+     heating                              50388.7 +/- 1057.26
+ Distributed Cell u10->c34->l5(2,15)->u1->c4
+   Total Material
+     heating                              54311.8 +/- 1113.15
+ Distributed Cell u10->c34->l5(3,15)->u1->c4
+   Total Material
+     heating                              53980 +/- 1067.76
+ Distributed Cell u10->c34->l5(4,15)->u1->c4
+   Total Material
+     heating                              64212.5 +/- 1611.41
+ Distributed Cell u10->c34->l5(5,15)->u1->c4
+   Total Material
+     heating                              89275.5 +/- 2574.45
+ Distributed Cell u10->c34->l5(6,15)->u1->c4
+   Total Material
+     heating                              155752 +/- 4515.51
+ Distributed Cell u10->c34->l5(-20,16)->u1->c4
+   Total Material
+     heating                              148755 +/- 4253.78
+ Distributed Cell u10->c34->l5(-19,16)->u1->c4
+   Total Material
+     heating                              85671 +/- 2180.64
+ Distributed Cell u10->c34->l5(-18,16)->u1->c4
+   Total Material
+     heating                              55982.6 +/- 1523.44
+ Distributed Cell u10->c34->l5(-17,16)->u1->c4
+   Total Material
+     heating                              52439.3 +/- 1101.06
+ Distributed Cell u10->c34->l5(-16,16)->u1->c4
+   Total Material
+     heating                              50237.1 +/- 1265.15
+ Distributed Cell u10->c34->l5(-15,16)->u1->c4
+   Total Material
+     heating                              49498.4 +/- 1016.51
+ Distributed Cell u10->c34->l5(-14,16)->u1->c4
+   Total Material
+     heating                              51333.9 +/- 1083.36
+ Distributed Cell u10->c34->l5(-13,16)->u1->c4
+   Total Material
+     heating                              51678.4 +/- 1312.56
+ Distributed Cell u10->c34->l5(-12,16)->u1->c4
+   Total Material
+     heating                              49371.7 +/- 1029.24
+ Distributed Cell u10->c34->l5(-11,16)->u1->c4
+   Total Material
+     heating                              49551.7 +/- 954.884
+ Distributed Cell u10->c34->l5(-10,16)->u1->c4
+   Total Material
+     heating                              51316.8 +/- 1076.52
+ Distributed Cell u10->c34->l5(-9,16)->u1->c4
+   Total Material
+     heating                              51866.1 +/- 1173.92
+ Distributed Cell u10->c34->l5(-8,16)->u1->c4
+   Total Material
+     heating                              50848.1 +/- 972.229
+ Distributed Cell u10->c34->l5(-7,16)->u1->c4
+   Total Material
+     heating                              50794 +/- 1068.78
+ Distributed Cell u10->c34->l5(-6,16)->u1->c4
+   Total Material
+     heating                              48642.5 +/- 1033.59
+ Distributed Cell u10->c34->l5(-5,16)->u1->c4
+   Total Material
+     heating                              50922.4 +/- 1120.34
+ Distributed Cell u10->c34->l5(-4,16)->u1->c4
+   Total Material
+     heating                              51038.8 +/- 1191.52
+ Distributed Cell u10->c34->l5(-3,16)->u1->c4
+   Total Material
+     heating                              49911.3 +/- 901.157
+ Distributed Cell u10->c34->l5(-2,16)->u1->c4
+   Total Material
+     heating                              47933.1 +/- 999.459
+ Distributed Cell u10->c34->l5(-1,16)->u1->c4
+   Total Material
+     heating                              51216.9 +/- 1128.28
+ Distributed Cell u10->c34->l5(0,16)->u1->c4
+   Total Material
+     heating                              49908.9 +/- 1082.8
+ Distributed Cell u10->c34->l5(1,16)->u1->c4
+   Total Material
+     heating                              52874.5 +/- 1049.06
+ Distributed Cell u10->c34->l5(2,16)->u1->c4
+   Total Material
+     heating                              60053.4 +/- 1444.83
+ Distributed Cell u10->c34->l5(3,16)->u1->c4
+   Total Material
+     heating                              85460.8 +/- 2218.02
+ Distributed Cell u10->c34->l5(4,16)->u1->c4
+   Total Material
+     heating                              139601 +/- 3886.38
+ Distributed Cell u10->c34->l5(-19,17)->u1->c4
+   Total Material
+     heating                              116327 +/- 2737.79
+ Distributed Cell u10->c34->l5(-18,17)->u1->c4
+   Total Material
+     heating                              60244 +/- 1625.6
+ Distributed Cell u10->c34->l5(-17,17)->u1->c4
+   Total Material
+     heating                              54071.8 +/- 1181.18
+ Distributed Cell u10->c34->l5(-16,17)->u1->c4
+   Total Material
+     heating                              52676.2 +/- 1232.32
+ Distributed Cell u10->c34->l5(-15,17)->u1->c4
+   Total Material
+     heating                              50203 +/- 1082.12
+ Distributed Cell u10->c34->l5(-14,17)->u1->c4
+   Total Material
+     heating                              50453.5 +/- 1115.69
+ Distributed Cell u10->c34->l5(-13,17)->u1->c4
+   Total Material
+     heating                              48942.7 +/- 1127.71
+ Distributed Cell u10->c34->l5(-12,17)->u1->c4
+   Total Material
+     heating                              47143.8 +/- 972.858
+ Distributed Cell u10->c34->l5(-11,17)->u1->c4
+   Total Material
+     heating                              49905.2 +/- 971.355
+ Distributed Cell u10->c34->l5(-10,17)->u1->c4
+   Total Material
+     heating                              50412.4 +/- 1004.62
+ Distributed Cell u10->c34->l5(-9,17)->u1->c4
+   Total Material
+     heating                              51189.7 +/- 982.916
+ Distributed Cell u10->c34->l5(-8,17)->u1->c4
+   Total Material
+     heating                              49046.3 +/- 1006.78
+ Distributed Cell u10->c34->l5(-7,17)->u1->c4
+   Total Material
+     heating                              48255.5 +/- 889.417
+ Distributed Cell u10->c34->l5(-6,17)->u1->c4
+   Total Material
+     heating                              48805.9 +/- 1028.57
+ Distributed Cell u10->c34->l5(-5,17)->u1->c4
+   Total Material
+     heating                              49861.5 +/- 931.815
+ Distributed Cell u10->c34->l5(-4,17)->u1->c4
+   Total Material
+     heating                              48863.2 +/- 1169.91
+ Distributed Cell u10->c34->l5(-3,17)->u1->c4
+   Total Material
+     heating                              49807.8 +/- 1124.34
+ Distributed Cell u10->c34->l5(-2,17)->u1->c4
+   Total Material
+     heating                              52892.8 +/- 1375.74
+ Distributed Cell u10->c34->l5(-1,17)->u1->c4
+   Total Material
+     heating                              53478.3 +/- 1169.78
+ Distributed Cell u10->c34->l5(0,17)->u1->c4
+   Total Material
+     heating                              56582.1 +/- 1378.03
+ Distributed Cell u10->c34->l5(1,17)->u1->c4
+   Total Material
+     heating                              65286.6 +/- 1791.21
+ Distributed Cell u10->c34->l5(2,17)->u1->c4
+   Total Material
+     heating                              118048 +/- 3116.82
+ Distributed Cell u10->c34->l5(-19,18)->u1->c4
+   Total Material
+     heating                              150886 +/- 4077.34
+ Distributed Cell u10->c34->l5(-18,18)->u1->c4
+   Total Material
+     heating                              90759.7 +/- 2470.32
+ Distributed Cell u10->c34->l5(-17,18)->u1->c4
+   Total Material
+     heating                              63591.9 +/- 1464.18
+ Distributed Cell u10->c34->l5(-16,18)->u1->c4
+   Total Material
+     heating                              59187.3 +/- 1706.19
+ Distributed Cell u10->c34->l5(-15,18)->u1->c4
+   Total Material
+     heating                              54250.7 +/- 1260.65
+ Distributed Cell u10->c34->l5(-14,18)->u1->c4
+   Total Material
+     heating                              49342.8 +/- 1181.22
+ Distributed Cell u10->c34->l5(-13,18)->u1->c4
+   Total Material
+     heating                              48801 +/- 1062.91
+ Distributed Cell u10->c34->l5(-12,18)->u1->c4
+   Total Material
+     heating                              48977.9 +/- 1098.65
+ Distributed Cell u10->c34->l5(-11,18)->u1->c4
+   Total Material
+     heating                              48708.5 +/- 1023.8
+ Distributed Cell u10->c34->l5(-10,18)->u1->c4
+   Total Material
+     heating                              47672.2 +/- 806.751
+ Distributed Cell u10->c34->l5(-9,18)->u1->c4
+   Total Material
+     heating                              49322.4 +/- 1026.04
+ Distributed Cell u10->c34->l5(-8,18)->u1->c4
+   Total Material
+     heating                              47816.6 +/- 1091.09
+ Distributed Cell u10->c34->l5(-7,18)->u1->c4
+   Total Material
+     heating                              49119.9 +/- 1138.1
+ Distributed Cell u10->c34->l5(-6,18)->u1->c4
+   Total Material
+     heating                              49627 +/- 1018.64
+ Distributed Cell u10->c34->l5(-5,18)->u1->c4
+   Total Material
+     heating                              49970.9 +/- 1222.83
+ Distributed Cell u10->c34->l5(-4,18)->u1->c4
+   Total Material
+     heating                              50654.9 +/- 1212.77
+ Distributed Cell u10->c34->l5(-3,18)->u1->c4
+   Total Material
+     heating                              53292.7 +/- 1226.9
+ Distributed Cell u10->c34->l5(-2,18)->u1->c4
+   Total Material
+     heating                              60345.2 +/- 1587.05
+ Distributed Cell u10->c34->l5(-1,18)->u1->c4
+   Total Material
+     heating                              64170.8 +/- 1720.34
+ Distributed Cell u10->c34->l5(0,18)->u1->c4
+   Total Material
+     heating                              93478.1 +/- 2329.97
+ Distributed Cell u10->c34->l5(1,18)->u1->c4
+   Total Material
+     heating                              153738 +/- 4381.34
+ Distributed Cell u10->c34->l5(-18,19)->u1->c4
+   Total Material
+     heating                              146613 +/- 3736.72
+ Distributed Cell u10->c34->l5(-17,19)->u1->c4
+   Total Material
+     heating                              113785 +/- 2909.97
+ Distributed Cell u10->c34->l5(-16,19)->u1->c4
+   Total Material
+     heating                              80468.7 +/- 2240.74
+ Distributed Cell u10->c34->l5(-15,19)->u1->c4
+   Total Material
+     heating                              61436.2 +/- 1565.21
+ Distributed Cell u10->c34->l5(-14,19)->u1->c4
+   Total Material
+     heating                              52288.2 +/- 1336.99
+ Distributed Cell u10->c34->l5(-13,19)->u1->c4
+   Total Material
+     heating                              52026.2 +/- 1266.89
+ Distributed Cell u10->c34->l5(-12,19)->u1->c4
+   Total Material
+     heating                              49723 +/- 1068.96
+ Distributed Cell u10->c34->l5(-11,19)->u1->c4
+   Total Material
+     heating                              49640.1 +/- 1116.28
+ Distributed Cell u10->c34->l5(-10,19)->u1->c4
+   Total Material
+     heating                              50733.7 +/- 1122.68
+ Distributed Cell u10->c34->l5(-9,19)->u1->c4
+   Total Material
+     heating                              51401.8 +/- 1095.8
+ Distributed Cell u10->c34->l5(-8,19)->u1->c4
+   Total Material
+     heating                              50130.9 +/- 1192.55
+ Distributed Cell u10->c34->l5(-7,19)->u1->c4
+   Total Material
+     heating                              52929.4 +/- 1145.08
+ Distributed Cell u10->c34->l5(-6,19)->u1->c4
+   Total Material
+     heating                              49857.5 +/- 1119.34
+ Distributed Cell u10->c34->l5(-5,19)->u1->c4
+   Total Material
+     heating                              55038.3 +/- 1636.94
+ Distributed Cell u10->c34->l5(-4,19)->u1->c4
+   Total Material
+     heating                              58360.3 +/- 1597.3
+ Distributed Cell u10->c34->l5(-3,19)->u1->c4
+   Total Material
+     heating                              81116.3 +/- 2554.83
+ Distributed Cell u10->c34->l5(-2,19)->u1->c4
+   Total Material
+     heating                              114826 +/- 3047.15
+ Distributed Cell u10->c34->l5(-1,19)->u1->c4
+   Total Material
+     heating                              151470 +/- 4272.78
+ Distributed Cell u10->c34->l5(-16,20)->u1->c4
+   Total Material
+     heating                              140385 +/- 4414.48
+ Distributed Cell u10->c34->l5(-15,20)->u1->c4
+   Total Material
+     heating                              93159 +/- 2821.22
+ Distributed Cell u10->c34->l5(-14,20)->u1->c4
+   Total Material
+     heating                              62580.9 +/- 1745.37
+ Distributed Cell u10->c34->l5(-13,20)->u1->c4
+   Total Material
+     heating                              58134.3 +/- 1387.18
+ Distributed Cell u10->c34->l5(-12,20)->u1->c4
+   Total Material
+     heating                              57221.2 +/- 1416.86
+ Distributed Cell u10->c34->l5(-11,20)->u1->c4
+   Total Material
+     heating                              58109.2 +/- 1416.26
+ Distributed Cell u10->c34->l5(-10,20)->u1->c4
+   Total Material
+     heating                              59021.1 +/- 1556.41
+ Distributed Cell u10->c34->l5(-9,20)->u1->c4
+   Total Material
+     heating                              59418.7 +/- 1556.03
+ Distributed Cell u10->c34->l5(-8,20)->u1->c4
+   Total Material
+     heating                              60019.6 +/- 1626.36
+ Distributed Cell u10->c34->l5(-7,20)->u1->c4
+   Total Material
+     heating                              59921.6 +/- 1701.14
+ Distributed Cell u10->c34->l5(-6,20)->u1->c4
+   Total Material
+     heating                              64245.9 +/- 1533.17
+ Distributed Cell u10->c34->l5(-5,20)->u1->c4
+   Total Material
+     heating                              86151.1 +/- 2448.58
+ Distributed Cell u10->c34->l5(-4,20)->u1->c4
+   Total Material
+     heating                              131066 +/- 3117.84
+ Distributed Cell u10->c34->l5(-15,21)->u1->c4
+   Total Material
+     heating                              147115 +/- 3737.55
+ Distributed Cell u10->c34->l5(-14,21)->u1->c4
+   Total Material
+     heating                              128045 +/- 3823.64
+ Distributed Cell u10->c34->l5(-13,21)->u1->c4
+   Total Material
+     heating                              124244 +/- 3181.2
+ Distributed Cell u10->c34->l5(-12,21)->u1->c4
+   Total Material
+     heating                              117536 +/- 3375.08
+ Distributed Cell u10->c34->l5(-11,21)->u1->c4
+   Total Material
+     heating                              118835 +/- 3525.07
+ Distributed Cell u10->c34->l5(-10,21)->u1->c4
+   Total Material
+     heating                              120394 +/- 3301.61
+ Distributed Cell u10->c34->l5(-9,21)->u1->c4
+   Total Material
+     heating                              125824 +/- 3354
+ Distributed Cell u10->c34->l5(-8,21)->u1->c4
+   Total Material
+     heating                              125867 +/- 4067
+ Distributed Cell u10->c34->l5(-7,21)->u1->c4
+   Total Material
+     heating                              126658 +/- 3258.59
+ Distributed Cell u10->c34->l5(-6,21)->u1->c4
+   Total Material
+     heating                              156107 +/- 4322.91
+ ============================>     TALLY 3     <============================
+
+ Mesh Index (1, 1, 1)
+   Total Material
+     heating                              13166.6 +/- 956.717
+ Mesh Index (1, 1, 2)
+   Total Material
+     heating                              6391.16 +/- 268.479
+ Mesh Index (1, 1, 3)
+   Total Material
+     heating                              7163.08 +/- 290.491
+ Mesh Index (1, 1, 4)
+   Total Material
+     heating                              7313 +/- 309.294
+ Mesh Index (1, 1, 5)
+   Total Material
+     heating                              7316.81 +/- 280.504
+ Mesh Index (1, 1, 6)
+   Total Material
+     heating                              7571.25 +/- 339.044
+ Mesh Index (1, 1, 7)
+   Total Material
+     heating                              6409.98 +/- 266.319
+ Mesh Index (1, 1, 8)
+   Total Material
+     heating                              6454.41 +/- 244.662
+ Mesh Index (1, 1, 9)
+   Total Material
+     heating                              4952.71 +/- 258.499
+ Mesh Index (1, 1, 10)
+   Total Material
+     heating                              5149.12 +/- 376.805
