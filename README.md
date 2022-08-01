@@ -1,2 +1,3 @@
 # MRHP
-# MRHP
+
+Micro Reactor Heat Pipe (MRHP) is a novel conceptual reactor with heat pipe as a coolant. MRHP previously uses Uranium dioxide (UO2) as a fuel. In this experiment, we uses new fuel, Uranium Carbide (UC), as MRHP's fuel. With this new fuel, we want to see what is the correct enrichment level for MRHP with UC, the effect of temperature changes to reactivity, and the power distribution in MRHP core. To do this, we uses OpenMC code. This work is my Nuclear Engineering's bachelors thesis tittled "Analysis of the Temperature Reactivity Coefficient and the Power Peaking Factor of Micro Reactor Heat Pipe (MRHP) with Uranium Carbide Using OpenMC" at Universitas Gadjah Mada.
